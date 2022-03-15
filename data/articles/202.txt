@@ -1,0 +1,18 @@
+<div><h1 class="ssrcss-gcq6xq-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Supreme Court reimposes death penalty for Boston bomber</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">The US Supreme Court has re-imposed the death sentence for convicted Boston marathon bomber Dzhokhar Tsarnaev, reversing an earlier appeals court ruling to void it.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Justices voted 6-3 to reject defence claims Tsarnaev's 2015 trial was conducted improperly.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Three people died and 260 others were wounded in the 2013 bombing, which Tsarnaev carried out with his older brother Tamerlan.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Tamerlan was shot dead by police.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In July 2020, a federal appeals court 'vacated' (removed) Tsarnaev's death sentence, arguing the judge in his original trial had failed to question potential jurors about how much they'd been following the case in the news.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Additionally, the appeals court said the judge should have allowed the defence team to bring up a 2011 triple murder in a Boston suburb.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Tsarnaev's lawyers had hoped to use the crime as evidence that he had been manipulated by his brother who had been a suspect in the case, and who they characterised as the mastermind of the bombing. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">While the court upheld his conviction, his death sentence was overturned. The Supreme Court's decision on Friday reverses that decision.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"Dzhokhar Tsarnaev committed heinous crimes," Justice Clarence Thomas wrote. "The sixth amendment nonetheless guaranteed him a fair trial before an impartial jury. He received one."</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The Supreme Court's six conservative justices were the majority, with the remaining three liberal judges dissenting.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">No federal executions were carried out in the US for a 17-year period before the administration of former President Donald Trump. A total of 13 federal executions took place during the Trump administration.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In July last year, Attorney General Merrick Garland imposed a moratorium on federal executions to allow the Justice Department to review the death penalty.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Earlier this year, White House Press Secretary Jen Psaki said the administration had "grave concerns about whether capital punishment, as currently implemented, is consistent with the values that are fundamental to our sense of justice and fairness".</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The Biden administration's Justice Department, however, defended the death sentence for Tsarnaev, and Mr Garland's moratorium did not prevent prosecutors from continuing to seek capital punishment in the case.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60624642"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="1"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="202"\> 
