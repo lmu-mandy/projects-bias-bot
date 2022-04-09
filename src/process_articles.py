@@ -21,21 +21,22 @@ df = df.rename(columns=new_headers)
 articles = []
 for i, article_num in enumerate(df['articleNumber']):
 
-	print(f"[{i}/{len(df)}]")
+	print(f"\n\n[{i}/{len(df)}] -- Article {article_num}")
 	
 	article_file = f"../data/articles/{article_num}.txt"
 	f = open(article_file)
 	text = f.read()
 
 	source = df['newsOutlet'][i]
+	label = df['bias-question'][i]
+	party = df['politics'][i]
 
-	article = Article(text, source, article_num)
+	article = Article(text, source, article_num, label, party)
 	articles.append(article)
 
-	# print(f"\n\n\nArticle from {source}:")
-	# print(text)
-	# print("\nProcessed:")
-	# print(article.text)
+	print(f"\n\n\nArticle from {source}:")
+	print("Headline: ", article.headline)
+	print(article.text)
 
 
 output_file = f"../data/processed_articles.p"

@@ -19,11 +19,34 @@ def remove_punctuation(text):
 			text = text.replace(char,"")
 	return text
 
+def get_headline(source, text):
+
+	if source == "FOX" or source == "CNN":
+		exp = '<div><h1 class="(pg-)?headline">.*?>'
+	else:
+		exp = '<div><h1 class="ssrcss.*?" id="main-heading" tabindex="-1">.*?>'
+
+	headline_exp = re.compile(exp)
+	headline = remove_html_tags(headline_exp.match(text).group())
+	text = re.sub(headline_exp, '', text)
+	return headline, text
+
 class Article:
-	def __init__(self,text, source, article_num):
+	def __init__(self,text, source, article_num, label, party):
+
+		text = text.lower()
+
+		self.headline, text = get_headline(source, text)
+		self.headline = self.process_text(self.headline)
 		self.text = self.process_text(text)
 		self.source = source	
 		self.number = article_num
+		self.party = party
+
+		if label == 'is-biased':
+			self.label = "Is Biased"
+		else:
+			self.label = "Is Not Biased"
 
 	def process_text(self,text):
 
