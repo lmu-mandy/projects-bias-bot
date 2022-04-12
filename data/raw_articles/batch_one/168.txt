@@ -1,0 +1,8 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">What Americans think of President Biden's Ukraine response</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Before President Biden's first State of the Union address, the BBC's North America editor Sarah Smith asked some Americans in Philadelphia how they feel about the US response to the war in Ukraine. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The US and its North Atlantic Treaty Organization (Nato) allies have been sending weapons to Ukraine to help it defend itself against Russia. But Mr Biden has said he will not send troops to fight.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Western nations have instead focused on an economic response - sanctions designed to squeeze Russian banks, the Kremlin's elite and President Vladimir Putin himself.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60532627"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="1"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="168"\> 

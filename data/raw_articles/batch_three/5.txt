@@ -1,0 +1,13 @@
+<div><h1 class="headline">Genealogy database DNA solves decades old violent rape cases in Washington state</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">An eastern Washington man has been arrested for raping two women in Pullman two decades ago after authorities say DNA linked him to the crimes.<br><br>Kenneth Downing, 47, is accused of breaking into two homes and raping women in the early 2000’s, the New York Post reports. </p>
+<p>
+      Scientist pipetting a DNA (deoxyribonucleic acid) sample into a petri dish with a DNA profile in the background.
+      </p>
+<p class="speakable"><br><br>Downing, who is reportedly now a married construction worker with children, was taken into custody at a Spokane job site March 17. He has been charged with four counts of rape, three counts of assault and three counts of unlawful imprisonment with sexual motivation, among other charges.<br><br>"This cold case arrest was made possible through DNA matches, using evidence collected at the time that the crimes occurred," Pullman police said in a statement.<br><br><br><br>For 18 years, police kept DNA evidence they collected, but they didn’t know whose it was until they entered in into a genealogy database. According to court documents, he was linked to the case after one of Downing’s relatives sent in a sample to learn more about their family tree.</p>
+<p>Three women whose homes he allegedly broke into have been notified of Downing’s arrest, according to Pullman Police Sgt. Aaron Breshears.<br><br><br><br>Downing’s bail was set at $5 million with prosecutors arguing he’s still a threat to the public. He was assigned a court-appointed attorney and is set to return to court March 25, KHQ-TV reports. </p>
+<p><i>The Associated Press contributed to this report. </i></p>
+<p>Pilar Arias is a multimedia journalist with more than 10 years of experience in broadcast, digital and print production. She covers a wide variety of topics. @PilarFOXNews.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/genealogy-database-dna-solves-2-decade-old-violent-rape-cases-in-washington-state"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="5"\> 

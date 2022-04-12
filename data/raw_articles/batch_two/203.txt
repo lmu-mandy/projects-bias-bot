@@ -1,0 +1,8 @@
+<div><h1 class="pg-headline">Justice Clarence Thomas hospitalized with 'flu-like symptoms' </h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>Supreme Court Justice Clarence Thomas "was admitted to Sibley Memorial Hospital in Washington, D.C., on Friday evening after experiencing flu-like symptoms," the court's public information office said Sunday evening. </p>
+<div class="zn-body__paragraph">"He underwent tests, was diagnosed with an infection, and is being treated with intravenous antibiotics," the court's press release said. "His symptoms are abating, he is resting comfortably, and he expects to be released from the hospital in a day or two. Justice Thomas will participate in the consideration and discussion of any cases for which he is not present on the basis of the briefs, transcripts, and audio of the oral arguments."</div>
+<div class="zn-body__paragraph"><em>This is a breaking story and will be updated. </em></div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/20/politics/clarence-thomas-hospitalized/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="203"\> 

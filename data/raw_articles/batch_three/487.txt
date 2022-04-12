@@ -1,0 +1,7 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Toddler tossed to safety from burning building</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A father threw his three-year-old son from the second storey of a burning building. First responders on the ground caught the toddler and then his dad, who also had to jump to safety. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Both are safe with only minor injuries. The fire started in an apartment on the third storey of the New Jersey apartment complex before spreading through the building. Fifty people were displaced by the blaze.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60635933"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="487"\> 

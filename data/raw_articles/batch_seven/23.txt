@@ -1,0 +1,11 @@
+<div><h1 class="headline">6 injured in Chicago area shooting during gathering, police say</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Six people were injured during a shooting in a west Chicago suburb early Sunday morning, police said. </p>
+<p class="speakable">Officers responded to a residential neighborhood in Elgin just before 2 a.m. to find five victims with injuries, who were all taken to area hospitals. Officers later learned a sixth victim with injuries had taken themselves to a hospital. </p>
+<p><br><br>Preliminary information is that the shooting happened during a gathering, and appears to be an isolated incident.<br><br>Detectives from the Major Investigations Division and Special Investigations Division are actively investigating the case and updates will be provided as they become available. <br><br></p>
+<p><br><br>Anyone with information about the shooting is asked to call 847-289-2600, or text 847411 and include "ELGINPD" in the beginning of the text, along with the message and/or tip information. People can also visit this website for more crime tip options.</p>
+<p>Prior to this shooting, the city of Elgin's gunfire dashboard shows 16 year-to-date incidents involving three victims. Last year, the city had a total of 66 gunshot victims.</p>
+<p>Pilar Arias is a multimedia journalist with more than 10 years of experience in broadcast, digital and print production. She covers a wide variety of topics. @PilarFOXNews.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/6-injured-in-west-chicago-suburb-shooting-police-say"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="23"\> 

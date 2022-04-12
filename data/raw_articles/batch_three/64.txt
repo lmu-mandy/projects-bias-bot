@@ -1,0 +1,16 @@
+<div><h1 class="headline">2 Pennsylvania State Troopers, 1 civilian dead following car crash: authorities</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Two Pennsylvania State Troopers and a civilian are dead following an automobile accident in Philadelphia, authorities said.</p>
+<p class="speakable">The incident occurred just before 1 a.m. Monday morning along I-95, Fox 29 reported.</p>
+<p></p>
+<p>Authorities said the three victims were all deceased at the scene. Authorities have not released any details surrounding the crash, Fox 29 reported.</p>
+<p dir="ltr" lang="en">#BREAKING: Two Pennsylvania State Troopers were among three people killed in a crash along I-95 in Philadelphia early Monday morning, officials have confirmed to @FOX29philly https://t.co/RoZz9xdWIF</p>
+<p>Pennsylvania State Police are continuing to investigate the incident and traffic running both ways along I-95 has been shut down, according to the report.</p>
+<p></p>
+<p dir="ltr" lang="en">95 CLOSED in BOTH Directions between Broad St &amp; Walt Whitman Bridge. 2 PA State Troopers killed along with 1 civilian at 1am, more details now on @Fox29philly pic.twitter.com/1usdKVKH1Q</p>
+<p>Neither officer nor the civilian have yet been identified.</p>
+<p>
+</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/pennsylvania-state-troopers-civilian-dead-car-crash-authorities"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="64"\> 

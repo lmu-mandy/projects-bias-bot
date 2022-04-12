@@ -1,0 +1,8 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Obama jokes with 'Vice-President Biden' at White House</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Former US President Barack Obama could not help ribbing his old deputy on a return jaunt to the White House.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">He got a lot of laughs by addressing President Joe Biden as "Vice-President", his title during the eight years of the Obama presidency from 2009-17.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Mr Obama joined Mr Biden on Tuesday as he signed an executive order to strengthen the Affordable Care Act.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-61005429"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="71"\> 

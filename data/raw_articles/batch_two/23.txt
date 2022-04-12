@@ -1,0 +1,26 @@
+<div><h1 class="pg-headline">School where hundreds were believed to be sheltering is bombed in Mariupol as fighting rages for key port city</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source">Lviv, Ukraine (CNN)</cite>An adviser to the mayor of Mariupol has said officials in the besieged Ukrainian city are struggling to find out exactly how many people have survived after an art school was bombed by Russian forces on Sunday morning.  </p>
+<div class="zn-body__paragraph">Petro Andrushenko's social media post on the building that the city council said earlier was acting as a shelter for an estimated 400 people. </div>
+<div class="zn-body__paragraph">"So far, there is no exact operational data on how many people were hiding in the shelter or the number of casualties. I expect we will have it later today. But the situation is difficult and there is nowhere to get the data from."  </div>
+<div class="zn-body__paragraph">The information black hole reflects a similar lack of clarity about how many people survived an attack four days ago on a theater in Mariupol that was also being used as a shelter, possibly for up to 1,300 people.  </div>
+<div class="zn-body__paragraph">The number of people reported to have survived that bombing -- put at 130 -- has been unchanged for several days.  </div>
+<div class="zn-body__paragraph">It is indicative of the almost total collapse of basic services and communications in a city that is increasingly bearing the brunt of Russia's fierce assault on the country.   </div>
+<div class="zn-body__paragraph"> </div>
+<div class="zn-body__paragraph">"The city continues to be shelled both from the sky and the sea," Andrushenko wrote on his Telegram channel Sunday. "It seems the occupiers are so eager to wipe out Mariupol that they are ready to cover themselves with fire."  </div>
+<div class="zn-body__paragraph">Four of the seven established humanitarian corridors out of Mariupol were operational on Sunday, according to Ukraine's Deputy Prime Minister Iryna Vereshchuk, and almost 7,300 people were evacuated.</div>
+<div class="zn-body__paragraph">Among them, 3,900 people were evacuated by buses and private transport from Mariupol to Zaporizhzhia. </div>
+<div class="zn-body__paragraph">The Russian Ministry of Defense on Sunday called on Mariupol local authorities to surrender the city to Russian forces, according to Russian state media outlet, RIA Novosti. </div>
+<div class="zn-body__paragraph">The news agency attributed its reporting to comments made by the head of the National Center for Defense Management of the Russian Federation, Colonel-General Mikhail Mizintsev.</div>
+<div class="zn-body__paragraph">Andrushenko said people trying to flee the city in their cars were being shot at by Russian forces.  </div>
+<div class="zn-body__paragraph">"Evacuation is difficult -- difficult but moving. The Russians are doing everything to complicate things. Last night, cars trying to drive towards the village of Melekine [6 miles west of the city center] were fired upon."  </div>
+<div class="zn-body__paragraph">Other residents looking to flee were having their cars seized from them at a checkpoint just outside Mariupol, he said.  </div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph">Meanwhile, Mariupol City Council said in a statement on Saturday night that residents of the city were being taken to Russian territories against their will by Russian forces.  </div>
+<div class="zn-body__paragraph">"Over the past week, several thousand Mariupol residents have been taken to Russian territory. The occupiers illegally took people from the Livoberezhny district and from the shelter in the sports club building, where more than a thousand people (mostly women and children) were hiding from the constant bombing," the statement read. </div>
+<div class="zn-body__paragraph">According to Colonel-General Mizintsev almost 60,000 residents of Mariupol "found themselves in Russia in complete safety," RIA Novosti reported.</div>
+<div class="zn-body__paragraph">The city council said captured Mariupol residents were taken to camps where Russian forces checked their phones and documents, then redirected some of the residents to remote cities in Russia -- adding that the "fate of the others is unknown." </div>
+<div class="zn-body__paragraph">The statement quoted Mariupol mayor Vadym Boichenko saying, "What the occupiers are doing today is familiar to the older generation, who saw the horrific events of World War II, when the Nazis forcibly captured people." </div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/20/europe/russia-invasion-ukraine-03-20-intl/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="23"\> 

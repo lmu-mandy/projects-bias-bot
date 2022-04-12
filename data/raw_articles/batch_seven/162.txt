@@ -1,0 +1,20 @@
+<div><h1 class="headline">NYPD intensify search for suspect who choked, sexually assaulted Manhattan jogger</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Police have intensified their manhunt for a suspect who choked, robbed and sexually assaulted a jogger in a Manhattan park on March 27. </p>
+<p class="speakable">The woman, 39, was jogging near Pier 40 in Precinct 6’s Hudson River Park around 6 a.m. when the suspect rode up behind her on a bike and threw her to the ground.</p>
+<p></p>
+<p>The suspect then proceeded to choke and sexually assault her before fleeing the scene on his bike with the victim’s cellphone, said police.</p>
+<p>EMS arrived at the scene and transported the woman to a hospital, where she was treated for bruises and pain.</p>
+<p>Police have yet to make an arrest on this case. They are describing the man as bearded, 5-foot-9, and approximately 180 pounds. Police believe he is in late 20s, early 30s.</p>
+<p></p>
+<p>The NYPD released video footage of the runaway suspect the day after the attack in the hopes someone will come forward with information.</p>
+<p>
+      NYPD has released surveillance footage of the suspect. (@NYPDnews)
+      </p>
+<p>Sexual assault case numbers in New York City continue to rise in Precinct 6, according to crime statistics by the NYPD. Rape incidents went up 200% in a 28-day period in comparison to 2021. Other sex crime incidents went up 400% in a 28-period compared to last year, with 10 reports between March 28 and April 3. </p>
+<p></p>
+<p>The victim’s name has not yet been released nor her current state of health.</p>
+<p>Haley Chi-Sing is a Fox News Digital production assistant. You can reach her at @haleychising on Twitter.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/nypd-intensify-search-for-suspect-who-choked-sexually-assaulted-manhattan-jogger"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="162"\> 

@@ -1,0 +1,14 @@
+<div><h1 class="pg-headline">Golfer Hudson Swafford left bewildered after club head flies off mid-shot at the Masters</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>Golfers will prepare for every eventuality before playing in a major.</p>
+<div class="zn-body__paragraph">But Hudson Swafford could never have expected what happened to him at the Masters on Friday.</div>
+<div class="zn-body__paragraph">Hitting his second on the historic par-five 13th hole, the US golfer lined up to hit his iron shot from the fairway.</div>
+<div class="zn-body__paragraph">He swung, connected with the ball, and the ball flew in the correct direction. </div>
+<div class="zn-body__paragraph">However, much to Swafford's bemusement, the head of his club flew off the end of his club, leaving the bewildered golfer holding the shaft and handle of his club.</div>
+<div class="zn-body__paragraph">Television cameras caught the world No. 79 turning to his caddie, asking what happened with his arms aloft.</div>
+<div class="zn-body__paragraph">Amazingly, and as a display of a professional golfer's skills, the ball still managed to fly over Rae's Creek which lies at the front of the 13th green. </div>
+<div class="zn-body__paragraph">Remarkably, Swafford was able to salvage a par and ensure his round did not completely unravel.</div>
+<div class="zn-body__paragraph">He might be down a club head, but Swafford will be counting his blessings, as his ball is still in play.</div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/08/golf/hudson-swafford-golf-club-head-masters-spt-intl/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="56"\> 
