@@ -1,0 +1,8 @@
+<div><h1 class="ssrcss-gcq6xq-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Timed Teaser: Who's hosting American Song Contest with Kelly Clarkson?</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">Test your news knowledge against the clock. Can you outscore your friends?</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">If you cannot see the quiz, follow this link.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Want more of the same? Try last week's teaser. Or take Friday's quiz of the week's news.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">What information do we collect from this quiz? </i>Privacy notice<i class="ssrcss-xbdn93-ItalicText e5tfeyi2">.</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60648911"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="1"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="66"\> 

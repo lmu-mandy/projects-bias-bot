@@ -1,0 +1,20 @@
+<div><h1 class="headline">Los Angeles police seeking 2 armed men in broad daylight home invasion</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Los Angeles police are searching for two men in connection to a broad daylight armed robbery at a home in Studio City on Monday morning.</p>
+<p class="speakable">The robbery happened on the 4200 block of Babcock Avenue around 8:30 a.m., FOX11 Los Angeles reported. The Studio City neighborhood is located just 6 miles outside of Hollywood.</p>
+<p></p>
+<p>The female victim told the station that she was at a doctor’s appointment when she got a startling call from her husband, who was home with their baby, dog and a nanny.</p>
+<p>"It’s probably the worst call you could receive," the victim, who wished to remain anonymous, said.</p>
+<p>
+      Home surveillance video captured the two men running from the home. No descriptions of the suspects were immediately available.
+      </p>
+<p>Police said the armed men entered home with a key that they stole from the wife’s Tesla while she was at the doctor and found her address on a package before driving to the home themselves.</p>
+<p>The husband told the station that the suspects came within 12 feet of him and that he saw a gun tucked into one of their waistbands. He said that the armed men fled after seeing him. </p>
+<p>No injuries were reported.</p>
+<p>Home surveillance video captured the two men running from the home and hopping a fence. They appeared to flee in a silver BMW 5 Series sedan.</p>
+<p></p>
+<p>No descriptions of the suspects were immediately available.</p>
+<p>Anyone with information on the case was urged to call 877-LAPD-247 or Crime Stoppers at 800-222-TIPS.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/los-angeles-robbery-suspects-home-invasion-studio-city"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="1"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="298"\> 

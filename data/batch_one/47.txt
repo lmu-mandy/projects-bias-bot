@@ -1,0 +1,13 @@
+<div><h1 class="ssrcss-gcq6xq-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Ashley Wadsworth: Man in court over murder of Canadian girlfriend</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">A man has appeared in court accused of murdering his 19-year-old Canadian girlfriend.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Jack Sepple, 23, is charged with killing Ashley Wadsworth, who he met online, at a house in Tennyson Road, Chelmsford, in Essex, on 1 February. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Ms Wadsworth, from Vernon in British Columbia, was pronounced dead at the scene, police said.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">During a hearing at Chelmsford Crown Court, Mr Sepple entered no plea and a trial was set for 5 September. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Mr Sepple, of Tennyson Road, spoke only to confirm his name during the short hearing. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The trial has provisionally been listed for two weeks. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Essex Police attended the Tennyson Road address shortly after 16:00 on 1 February.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">Find BBC News: East of England on </i>Facebook<i class="ssrcss-xbdn93-ItalicText e5tfeyi2">, </i>Instagram<i class="ssrcss-xbdn93-ItalicText e5tfeyi2"> and </i>Twitter<i class="ssrcss-xbdn93-ItalicText e5tfeyi2">. If you have a story suggestion email </i>eastofenglandnews@bbc.co.uk</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Information about BBC links to other news sites</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/uk-england-essex-60624526"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="1"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="47"\> 
