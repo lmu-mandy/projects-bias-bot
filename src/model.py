@@ -94,7 +94,7 @@ with open("../data/processed_articles.p", "rb") as f:
 
 vocab, word_to_index = load_vocab(data)
 label_to_index = {"Is Biased":0, "Is Not Biased":1}
-party_to_index = {"Liberal":0, "Conservative":1, "Independent":2, "Other":3}
+party_to_index = {"Liberal":0, "Conservative":1, "Independent":2, "Other":3, "default":3}
 max_len = max([len(article.headline + article.text) for article in data]) + 2
 
 print("Creating train data set...")
