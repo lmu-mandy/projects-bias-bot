@@ -1,0 +1,19 @@
+<div><h1 class="pg-headline">How this Ukranian news outlet is protecting its journalists</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source">New York  (CNN)</cite>As Russia's attack on Ukraine continues to intensify, reporting from the war zone is becoming increasingly difficult — and dangerous. Four journalists have so far been killed reporting on the war and many more are injured or missing. </p>
+<div class="zn-body__paragraph">Ukrainian journalist Victoria Roshchyna has been missing for more than a week, and her outlet believes she is being held by Russian forces. However, Olga Rudenko, editor-in-chief of the Kyiv Independent, said journalist Oleh Baturyn, who was kidnapped last week in the southeastern Ukrainian city of Kakhovka, was just released by Russian fighters. </div>
+<div class="zn-body__paragraph">The Kyiv Independent is a fairly new publication but has earned acclaim for its war coverage. </div>
+<div class="zn-body__paragraph">"It's gone from being a three-month-old startup and a relative unknown in the Western world to now one of the leading sources of information on the war in Ukraine," CNN chief media correspondent Brian Stelter said on Reliable Sources Sunday.</div>
+<div class="zn-body__paragraph">Rudenko said no one on her team has been directly targeted yet, but reporting on the conflict is a "daily risk."</div>
+<div class="zn-body__paragraph">"We have to remember that this is an invasion by an authoritarian regime that has been targeting journalists and media consistently for decades now," Rudenko said. </div>
+<div class="zn-body__paragraph">Rudenko said the outlet is learning as they go when it comes to protecting employees who have suddenly found themselves war correspondents. Several of the Independent's reporters already had experience working in a war zone following Russia's annexation of Crimea in 2014. Now they are once again working in dangerous locations, including Kyiv.</div>
+<div class="zn-body__paragraph">One of the outlet's biggest fears is that Russian forces may cut off internet connections, hindering their ability to publish news.</div>
+<div class="zn-body__paragraph">"We do not concentrate" in one place, Rudenko said. "We are in different locations."</div>
+<div class="zn-body__paragraph">Work goes on, but there is an emphasis on avoiding unnecessary risks. </div>
+<div class="zn-body__paragraph">"We are also telling reporters that safety is a priority," Rudenko said. "No story is worth a human life." </div>
+<div class="zn-body__paragraph">But the psychological impacts will last after the war, Rudenko said. </div>
+<div class="zn-body__paragraph">"Just being thrown into this," Rudenko said of the toll the fighting is taking. "This new reality where we cover this horror every day and every hour."  </div>
+<div class="zn-body__paragraph"></div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/20/media/reliable-sources-kyiv-independent/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="101"\> 

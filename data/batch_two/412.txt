@@ -1,0 +1,9 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Covid: Why US students are staging walkouts over masks</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Will Wysoglad, a high school senior in Illinois, went viral after posting video diaries documenting how he was repeatedly sent home because he went to school mask-less.  An Illinois judge had recently ruled schools couldn't require masks. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">But while two-thirds of American schools have dropped mask requirements, there are students fighting to keep those requirements in place over public health concerns. That includes Leif Aucoin, a theatre major sophomore in Nevada.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">We asked both students why they were protesting, and how mask requirement changes in schools were affecting them.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Produced and edited by Man Sum Lai</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60745568"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="412"\> 

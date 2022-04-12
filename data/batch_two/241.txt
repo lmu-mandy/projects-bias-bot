@@ -1,0 +1,18 @@
+<div><h1 class="headline">YouTubers help find body of Pennsylvania man missing for nearly 20 years</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A YouTube group reportedly helped find the body of a Pennsylvania man who was missing for almost 20 years. </p>
+<p class="speakable">"It’s my brother," the victim's brother Stephen Amabile told The Philadelphia Inquirer when remains were found inside a car in a body of water Saturday. "They found him."</p>
+<p>The victim's brother says a family member reached out to a group called Adventures with Purpose leading up to Saturday's discovery. </p>
+<p>Adventures With Purpose runs a YouTube channel with over 2 million subscribers and is renowned for their ability to solve missing-person cases in bodies of water. They reportedly discovered a car at Darby's Creek in Pennsylvania Saturday evening believed to be James Amabile's. </p>
+<p>
+      A YouTube group helped to find the body of a Pennsylvania man who was missing for almost 20 years. The group, Adventures With Purpose, who runs the notable YouTube channel with over 2 million subscribers, reportedly discovered the car that is believed to be the man's vehicle at Darby's Creek in Pennsylvania Saturday evening.
+      </p>
+<p>"I’ve gotten used to not expecting anything, and I tuned a lot of things out," Stephen Amabile told The Philadelphia Inquirer. "But it didn’t take them very long to figure out there was an SUV down there."</p>
+<p></p>
+<p>James Amabile first disappeared back on Dec. 4 2003. His brother described him as a "family man, devoted to his two daughters," according to The Philadelphia Inquirer. </p>
+<p>James was reportedly on his way to pick up his daughters from the babysitter when he called and told her he was running late but was never heard from or seen again. Stephen Amabile believes his brother slipped into diabetic shock before driving his car into the water. </p>
+<p></p>
+<p>The plate number on the vehicle matched the "missing person from December of 2003," according to police. The Delaware County Medical Examiner's office will continue to investigate the remains.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/youtubers-find-body-missing-pennsylvania-man-missing-20-years"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="241"\> 

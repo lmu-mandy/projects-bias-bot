@@ -1,0 +1,8 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Police bodycam shows Black Panther director Ryan Coogler's arrest</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Black Panther director Ryan Coogler was mistaken for a bank robber when he handed a note to a member of staff.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The piece of paper simply gave his account details and the amount of money he wanted to withdraw - but it led to Mr Coogler's arrest.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Now, the Atlanta Police Department has released footage of moment he was detained and questioned about it.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60699186"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="440"\> 

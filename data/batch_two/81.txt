@@ -1,0 +1,15 @@
+<div><h1 class="headline">North Carolina shooting outside hotel leaves 3 dead, 2 wounded</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A Saturday night shooting outside a North Carolina hotel has left three people dead and two others wounded, according to reports. </p>
+<p class="speakable">The shooting occurred in the parking lot of the Baymont Ramada in Fayetteville just before 9 p.m. ET, authorities said. One person was found dead at the scene while two others died at a hospital, WNCN-TV of Raleigh reported. </p>
+<p></p>
+<p>
+      A shooting outside a Fayetteville hotel Saturday night left at least three people dead, authorities say. 
+      </p>
+<p>Both surviving victims were in critical condition, according to WTVD-TV of Durham, North Carolina. </p>
+<p>No arrests were immediately reported.</p>
+<p></p>
+<p>Fayetteville police said the circumstances that led to the shooting were still under investigation, according to WNCN. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/north-carolina-shooting-hotel-fayetteville"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="81"\> 

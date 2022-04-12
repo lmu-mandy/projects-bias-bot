@@ -1,0 +1,20 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Entrepreneur sells literacy business he created at school</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">An online literacy business created by a Scottish entrepreneur while he was still at school has been bought by a Swedish education technology group.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Kilmarnock-based Giglets Education was snapped up by private equity-backed ILT Education for a seven-figure sum.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Chief executive Craig Johnstone started the business as an enterprise project while he was still at Loudoun Academy in East Ayrshire.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The software firm was officially founded four years later in 2011.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The company aims to help schools and teachers improve literacy results and raise learning standards in the classroom and at home.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">More than 120,000 pupils and 40,000 teachers already use its literacy platform. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Giglets is currently used by schools in Scotland, England, Wales, Ireland, Switzerland, the Middle East and Australia.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">It works with governments, local authorities, teaching clusters, public and private schools, as well as The Hunter Foundation.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Giglets, which turns over about £1m a year, has recently expanded internationally, with a team in Canada serving North America.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The company, which now offers more than 1,100 digital titles, aims to grow staff numbers from 12 to 20 over the next two years.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Craig Johnstone, who will remain at the company, said: "This private equity-backed acquisition comes as we look to accelerate our growth across the UK, Ireland and internationally and at a time when the edtech market has never been more buoyant."</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">ILT Education chief executive Jakob Skogholm said joining forces with Giglets would further strengthen its mission to "improve literacy and promote multilingualism across the world".</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">According to Scottish Development International, edtech is a fast-growing sector, with schools in the UK alone currently spending about £900m on education technology.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Karen Meechan, chief executive of digital technology industry body ScotlandIS, said Scotland's edtech sector continued to go from strength to strength.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">She said: "Building on our rich history of developing education materials, we now have the added benefit of excellence in AI, gamification and cyber technology that can transform both teaching and learning. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"Throughout our own education system we've seen a steady increase in the use of these materials throughout Covid and we expect this trend to accelerate."</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/uk-scotland-scotland-business-60780953"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="316"\> 

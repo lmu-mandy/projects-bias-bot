@@ -1,0 +1,24 @@
+<div><h1 class="headline">West Texas wildfires prompt evacuations amid dry, windy conditions</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Wildfires ripping through West Texas this week prompted evacuations on Thursday and Friday, according to local authorities. </p>
+<p class="speakable">The Texas A&amp;M Forest Service issued a wildfire danger warning Thursday in the Gainesville, Fort Worth, Wichita Falls, Abilene, Midland, San Angelo, Austin, San Antonio and Del Rio areas, noting that high wind speeds of up to 40 mph with low humidity are fueling fires.</p>
+<p>"Texas A&amp;M Forest Service has been monitoring the fire environment and increased wildfire activity this week," Wes Moorehead, Texas A&amp;M Forest Service Fire Chief, said in a Wednesday statement. "The potential for significant, large wildfires has developed. … Wildfires that ignite under these forecast conditions are highly resistant to firefighters’ suppression efforts and pose a threat to public safety. We encourage residents to be cautious tomorrow, be prepared and listen to warnings from local officials."</p>
+<p>
+      West Texas wildfires. (Texas A&amp;amp;M Forest Service)
+      </p>
+<p>Firefighters have been working to contain thousand-acre fires across the West Texas area since Wednesday, according to the fire service. </p>
+<p></p>
+<p>As of Friday morning, the fires had burned about 62.5 square miles, according to Texas A&amp;M Forest Service. In Eastland County, which is nearly 40,000 acres, four separate fires that merged into one "complex" were only 2% contained as of Friday morning. </p>
+<p>About 18,000 people live in Eastland County, where the large fire was burning, prompting evacuations.</p>
+<p>Evacuation orders in other counties, including Taylor and Coleman Counties, were put into effect Thursday afternoon, according to FOX West Texas.</p>
+<p>A church and several buildings in Ranger burned down Thursday, Dallas TV station WFAA reported The fire fueled by high winds may have started from a barbecue pit, Ranger Fire Department Chief Darrell Fox said.</p>
+<p>"We had everything ready throughout the county," Fox told The Associated Press. "But when we have the winds like there was ... and the humidity down to nothing, this is what you’re going to get."</p>
+<p>No injuries have been reported as of Friday morning.</p>
+<p></p>
+<p>Texas Gov. Greg Abbott said in a Wednesday statement that the state would be "elevating its response and increasing resources to address any potential wildfire activity," thanking "firefighters and emergency response personnel who are working around the clock to protect our communities."</p>
+<p>Officials suggest people living in the affected areas prepare evacuation routes and assemble "go-kits" with prescription medications; papers and important identification or insurance documents; personal needs such as food, water, clothing and money; and other priceless items people want to hold on to.</p>
+<p><i>The Associated Press contributed to this report.</i></p>
+<p>Audrey Conklin is a digital reporter for FOX Business and Fox News. Email tips to audrey.conklin@fox.com or on Twitter at @audpants.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/west-texas-wildfires-evacuations"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="366"\> 

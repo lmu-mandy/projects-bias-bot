@@ -1,0 +1,24 @@
+<div><h1 class="pg-headline">One person killed and 28 wounded -- including children -- in shooting at Arkansas car show </h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>Police say they are hunting two suspects after gunfire broke out Saturday at a car show in Dumas, Arkansas, killing one person and injuring at least 28, including several children.</p>
+<div class="zn-body__paragraph">At a news conference Sunday afternoon, police identified the person killed as 23-year-old Cameron Shaffer of Jacksonville, Arkansas. There was no indication Schaffer was involved in act of shooting itself, they said.</div>
+<div class="zn-body__paragraph">"Our thoughts and prayers are with his family and also with all the families and our shooting victims as a result of this incident," Col. Bill Bryant of the Arkansas State Police told reporters.</div>
+<div class="zn-body__paragraph">Police believe there was "no mass shooting intended," with the incident triggered by two individuals who exchanged fire around 7 p.m. CT (8 p.m. ET) Saturday at the community car show. </div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph">The Dumas Police Department had one person in custody on unrelated charges, and police are searching for two additional suspects in connection with the shooting, Bryant said.</div>
+<div class="zn-body__paragraph">"It's shocking," he said. "We have a small community, a farming community in Dumas of 5,000 people and then we have an incident of multi-victims ... you don't expect that from small town Arkansas." </div>
+<div class="zn-body__paragraph">Gov. Asa Hutchinson spoke out on Twitter Sunday, saying the incident "represents a total disregard of the value of life." </div>
+<div class="zn-body__paragraph">"As the investigation continues, I will examine details to see if there are any steps that could have been taken to prevent this type of tragedy," Hutchinson said in the statement.</div>
+<div class="zn-body__paragraph"><h3>Children among victims of shooting</h3></div>
+<div class="zn-body__paragraph">Earlier Sunday, state police said that 24 people had been wounded in the incident, while Arkansas Children's Hospital said it had treated six victims aged under 18. </div>
+<div class="zn-body__paragraph">The hospital said the children's wounds were non-life-threatening and most of them had been released from the hospital following treatment.</div>
+<div class="zn-body__paragraph">"Arkansas Children's Hospital in Little Rock received six patients under 18 with gun shot wounds from the incident, none fatal. Most of the patients have been treated and released," Hilary DeMillo, media relations manager for the hospital, told CNN in an email.</div>
+<div class="zn-body__paragraph">Bryant told the news conference that five children -- aged 11, 9, 8, 23 months and 19 months -- were transported to Arkansas Children's Hospital after the incident and that police were working to verify whether a sixth child was involved. Five victims had since been released from the hospital, he said.</div>
+<div class="zn-body__paragraph">Arkansas State Police said in an earlier news release Sunday that Special Agents from its Criminal Investigation Division had interviewed victims and witnesses overnight. Investigators secured the scene, which sits along US Highway 65 as it goes through the center of Dumas, it said.</div>
+<div class="zn-body__paragraph">The car show was hosted by the Hood-Nic Foundation and Delta Neighborhood Empowerment Organization, a group providing educational programs and support for Dumas-area youth, according to their website. Dumas is about 80 miles southeast of Little Rock.</div>
+<div class="zn-body__paragraph">According to Delta N.E.Y.O website, the annual Hood-Nic, (Neighborhood Picnic) of which the car show has been a part for 16 years, takes place annually over spring break weekend to raise funds for "scholarships, school supplies, and more to deserving individuals."</div>
+<div class="zn-body__paragraph">"We are heartbroken and in shock at what took place during tonight's car show," the Hood-Nic Foundation said in a Facebook post Saturday night.</div>
+<div class="zn-body__paragraph">"The purpose of Hood-Nic has always been to bring the community together," the post said. "This senseless violence needs to end. Sending our prayers."</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Dakin Andone and Susannah Cullinane contributed to this report.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/19/us/arkansas-car-show-shooting/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="409"\> 

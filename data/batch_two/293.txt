@@ -1,0 +1,15 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Diplomats spar over 'edited' Russian letter</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">Russia has accused Canada of "kindergarten-level" diplomacy in a Twitter tiff over a social media post by Canada's United Nations mission. </b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The diplomatic spat is over a letter seeking support for a draft Russian resolution about aid in Ukraine.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Canada posted the letter to Twitter with "suggested edits", which led to retweets from other UN missions.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A Russian diplomat has called it "Russophobic libel".</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">An image of the letter - annotated in red type - was posted on Canada's official UN mission Twitter account on Thursday. The letter, signed by Russian diplomat Vassily Nebenzia, had been sent to all UN members the previous day.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In it, Mr Nebenzia says he is "reaching out with regards to an urgent matter related to the dire humanitarian situation in and around Ukraine". </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Canada's annotation adds to that line: "which we have caused as a result of our illegal war of aggression". </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The letter goes on to say that "Western colleagues" are "politicising the humanitarian issue". Canada adds "Do you think the UN membership actually believes this? Please explain."</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Dmitry Polyanskiy, first deputy permanent representative of Russia to the United Nations, responded to the tweet, saying it "shows that your diplomatic skills and good manners are at lowest ebb" and reminding Canada that it twice failed to secure enough support to win a non-permanent seat on the powerful UN Security Council. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The letter was meant to boost support for a draft resolution on providing humanitarian relief in Ukraine, which was scheduled for a vote on Friday at the UN Security Council. The resolution has been criticised by Western nations for its failure to mention Russia's responsibility for the war. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">That scheduled vote was cancelled by Russia on Thursday. The United States' envoy to the UN, Linda Thomas-Greenfield, said Russia's resolution was "farcical" and "doomed to fail", according to the AFP news agency. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60745569"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="293"\> 

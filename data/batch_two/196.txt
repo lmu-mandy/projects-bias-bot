@@ -1,0 +1,12 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Four dead after US military plane crashes in Norway</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">A US military plane has crashed in northern Norway, killing all four passengers on board.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The aircraft, which belonged to the US Marine Corps, was taking part in a Nato exercise when it came down on Friday.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">It crashed in a remote region of Norway, south of the town of Bodo, and helicopters were unable to land at the site due to bad weather.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">But search teams used snowmobiles to reach the scene of the crash in the early hours of Saturday.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"It is regrettably confirmed that all four on board the plane have perished," local police said in a statement, adding that the victims were all US nationals.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">An investigation into the cause of the accident was paused due to bad weather, but police said it would resume once the weather improves.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The MV-22B Osprey aircraft was taking part in a Nato exercise known as Cold Response, which is designed to prepare members of the defensive alliance to protect Norway.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">It involves some 30,000 troops from 27 member countries.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60804943"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="196"\> 

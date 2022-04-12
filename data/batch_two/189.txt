@@ -1,0 +1,19 @@
+<div><h1 class="pg-headline">Trevor Noah had nothing to do with Kanye West's Grammys performance being canceled, says source</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>Kanye West has been pulled from performing at this year's Grammys due to "concerning online behavior," three sources close to the artist confirmed to CNN.</p>
+<div class="zn-body__paragraph">The decision, which was first reported by The Blast, comes days after West, who now goes by Ye, was temporarily banned from Instagram after using a racial slur directed at "Daily Show" host Trevor Noah.</div>
+<div class="zn-body__paragraph">Noah is also the host of next month's Grammy Awards.</div>
+<div class="zn-body__paragraph">West's derogatory social media post was in response to Noah expressing concern over the artist's recent treatment of his former wife Kim Kardashian and her boyfriend, "SNL" star Pete Davidson during an episode of his show last week.</div>
+<div class="zn-body__paragraph">"You may not feel sorry for Kim because she's rich and famous," Noah said in the segment. "But what she's going through is terrifying to watch and shines a spotlight on what so many women go through when they choose to leave."</div>
+<div class="zn-body__paragraph">A source close to Noah told CNN that he had nothing to do with West's performance being canceled and that he has not had any conversations with producers or the Recording Academy, who produces the show, about West.</div>
+<div class="zn-body__paragraph">"Trevor never asked the Grammys to ban Kanye from performing. He was not offended by Kanye's Instagram post and Trevor responded on Instagram. The notion that Trevor or his team asked the Grammys to ban Kanye is ridiculous," the source said.</div>
+<div class="zn-body__paragraph">CNN has not yet received comment from the Recording Academy and West has not commented publicly.</div>
+<div class="zn-body__paragraph">West is nominated for five Grammys this year, including album of the year. It's unclear if he plans to attend the ceremony.</div>
+<div class="zn-body__paragraph">Noah commented on West's Instagram post, which has since been deleted, a message of support to the musician, writing it "breaks my heart to see you like this," and that his music had been an "indelible" part of his life."</div>
+<div class="zn-body__paragraph">Early Sunday morning Noah tweeted, "I said counsel Kanye not cancel Kanye."</div>
+<div class="zn-body__paragraph">The news of West's performance being axed from this year's lineup came as a bit of a surprise to his fans considering he had not been among the first round of performers announced last week for the 64th Grammy Awards. More performances will be announced in the days leading up to the show.</div>
+<div class="zn-body__paragraph">Among the artists who are set to take the stage are Billie Eilish, Lil Nas X, BTS and Olivia Rodrigo.</div>
+<div class="zn-body__paragraph">The Grammys are scheduled to air April 3 on CBS.</div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/20/entertainment/kanye-west-banned-grammys-trevor-noah/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="189"\> 

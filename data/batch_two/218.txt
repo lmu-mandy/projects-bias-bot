@@ -1,0 +1,17 @@
+<div><h1 class="headline">4 people shot near South By Southwest festival in Texas</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A suspect has been arrested in an overnight mass shooting near the South By Southwest, also known as SXSWfestivities in downtown Austin, Texas. <br><br>Four people were shot around 2 a.m. Sunday on East 6th Street and taken to hospitals with non-life-threatening injuries, Austin-Travis County EMS confirmed to FOX 7 Austin. </p>
+<p>
+</p>
+<p class="speakable"><br><br>Austin Police Department said they had seven times the officers patrolling the popular nightlife district because of the festival this weekend. </p>
+<p>"There were approximately 150 APD officers in downtown Austin Saturday night and Sunday morning," FOX 7 reports. "APD normally has 20 to 30 police officers staffed to protect the public in the bar district during non-festival weekends. Last week, Austin Police Chief Joseph Chacon said officers were being pulled from specialized units to combat gun violence during SXSW."</p>
+<p>
+</p>
+<p>Austin Police Association Ken Casady told the TV station he knows officers made over 30 arrests, 19 of those people with handguns on their persons prior to the shooting.<br><br><br><br>This recent shooting is the second mass shooting in the Lone Star State's capital city in the past year, sparking concerns about safety in the downtown area.  A teenager from Killeen was arrested for a shooting that killed one, injured 13 back in June last year. </p>
+<p>
+</p>
+<p>Austin police announced a suspect was in custody before 5 a.m. Sunday. No information has been released yet about the suspect. <br><br><br><br>SXSW is "best known for its conference and festivals that celebrate the convergence of tech, film, music, education, and culture," the event's website says. This year's festivities started March 11 and will end Sunday. </p>
+<p>Pilar Arias is a multimedia journalist with more than 10 years of experience in broadcast, digital and print production. She covers a wide variety of topics. @PilarFOXNews.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/4-people-shot-near-south-by-southwest-festival-in-texas"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="218"\> 

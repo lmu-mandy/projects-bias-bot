@@ -1,0 +1,23 @@
+<div><h1 class="headline">LA County Sheriff's Office helicopter crash leaves 6 injured</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A Los Angeles County Sheriff's Office helicopter crashed on Saturday evening, leaving six occupants injured but expected to survive, according to reports.</p>
+<p class="speakable">Aboard the helicopter were five sheriff's deputies and one doctor from UCLA, Sheriff Alex Villanueva told reporters at a news conference, FOX 11 of Los Angeles reported.</p>
+<p>All six occupants were transported to a trauma center, FOX 11 reported. All were in stable condition with injuries ranging from fractures to broken ribs, authorities said, according to the Los Angeles Times.</p>
+<p>"Thankfully nothing that is life-threatening at this time," Villanueva told reporters, according to the Los Angeles Daily News. He called that fact that all six occupants survived, "nothing short of a miracle."</p>
+<p>The helicopter crashed near San Gabriel Dam and Highway 39 as the deputies and doctor were traveling to the scene of a roadway crash, the station reported. The aircraft was attempting to land at the time, the report said.</p>
+<p></p>
+<p>There were low-hanging clouds in the area but otherwise no unusual weather or mechanical conditions, the Times reported.</p>
+<p>The spot where the helicopter hit the ground was close to an area where there was a 200-foot drop, so the incident could have been far worse, Villanueva told reporters, according to FOX 11.</p>
+<p>An aerial photo showed the helicopter flipped over on the ground but mostly intact.</p>
+<p>
+      A Los Angeles County Sheriff's Office helicopter is seen after Saturday's crash.
+      </p>
+<p></p>
+<p>The crash was reported around 4:30 p.m., according to FOX 11. The cause remained under investigation.</p>
+<p>A different rescue helicopter eventually arrived at the scene of the vehicular crash and was able to transport a victim who suffered minor injuries in that separate incident, according to the California Highway Patrol, the Daily News reported.</p>
+<p>In February, a Huntington Beach police helicopter crashed into the water in Newport Beach Harbor, killing a 14-year veteran of the force and injuring another officer, the station reported.</p>
+<p><i>Fox News' Dom Calicchio contributed to this story.</i></p>
+<p>Adam Sabes is a writer for Fox News Digital. Story tips can be sent to Adam.Sabes@fox.com and on Twitter @asabes10.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/la-county-sheriff-helicopter-crash"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="262"\> 

@@ -1,0 +1,15 @@
+<div><h1 class="pg-headline">3 people injured in Miami Beach shooting during crowded Spring Break weekend </h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>A shooting in Miami Beach left three people injured amid a packed Spring Break weekend.</p>
+<div class="zn-body__paragraph">Two people were transported to a hospital with gunshot wounds after officers responded to a shooting on Ocean Drive shortly after midnight, according to Miami Beach Police Department spokesperson Ernesto Rodriguez.</div>
+<div class="zn-body__paragraph">"On Sunday at 12:15 a.m., officers responded to a shooting along the 800 block of Ocean Drive,"  Rodriguez said. "Two victims were located with an apparent gunshot wound and were transported to Jackson Memorial Hospital by Miami Beach Fire Rescue with non-life-threatening injuries."</div>
+<div class="zn-body__paragraph">Initial information suggested a third person also sustained an injury at the same shooting scene, according to police.</div>
+<div class="zn-body__paragraph">"We later received a call from Mount Sinai Hospital indicating a male arrived with a gunshot wound, also non-life-threatening," Rodriguez said. </div>
+<div class="zn-body__paragraph">"Detectives are speaking with several individuals to determine what transpired in the moments leading up to the shooting," he added.</div>
+<div class="zn-body__paragraph">Mitch Novick, who owns the Sherbrooke Hotel in South Beach, shot footage of the Miami Beach crowd reacting to the gunfire.</div>
+<div class="zn-body__paragraph">In the video, gunshots can be heard as people run for safety while a large number of police officers rush towards the shooting. Novick sheltered behind a white vehicle and kept filming.</div>
+<div class="zn-body__paragraph">"You could see many officers heroically running towards the what was the sound of the gunfire," Novick told CNN. "And then they came back and surrounded, I don't know if it was a person or a vehicle, but you can see their guns drawn."</div>
+<div class="zn-body__paragraph">Novick also shared security footage from his hotel in which people can be heard screaming amidst the sound of gunfire. </div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/20/us/ocean-drive-miami-shooting-injured/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="332"\> 

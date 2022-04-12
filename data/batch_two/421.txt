@@ -1,0 +1,14 @@
+<div><h1 class="pg-headline">Biden administration formally determines Myanmar's military committed genocide</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>The Biden administration has formally determined that Myanmar's military committed genocide and crimes against humanity against the Rohingya, a US official told CNN on Sunday.</p>
+<div class="zn-body__paragraph">US Secretary of State Antony Blinken will publicly announce the determination, which human rights groups have been advocating for years, at the US Holocaust Memorial Museum in Washington, DC, on Monday.</div>
+<div class="zn-body__paragraph">Reuters first reported on the administration's recognition of genocide.</div>
+<div class="zn-body__paragraph">Until now, the US had stopped short of declaring the atrocities -- including mass killings and rape -- committed in 2017 against the Muslim minority Rohingya population a genocide. The violence forced nearly a million people to flee, and the United Nations recommended that top military officials face genocide charges.</div>
+<div class="zn-body__paragraph">"I applaud the Biden administration for finally recognizing the atrocities committed against the Rohingya as genocide. While this determination is long overdue, it is nevertheless a powerful and critically important step in holding this brutal regime to account," Democratic Sen. Jeff Merkley, a member of the Senate Foreign Relations Committee, said in a statement Sunday. </div>
+<div class="zn-body__paragraph">America, the Oregon Democrat said, "must lead the world to make it clear that atrocities like these will never be allowed to be buried unnoticed, no matter where they occur."</div>
+<div class="zn-body__paragraph"> A US State Department report released quietly in 2018 found that violence against the Rohingya in Myanmar's northern Rakhine State was "extreme, large-scale, widespread, and seemingly geared toward both terrorizing the population and driving out the Rohingya residents."</div>
+<div class="zn-body__paragraph">The State Department has sanctioned a number of Myanmar military officials, including commander-in-chief Min Aung Hlaing, for their role in committing those human rights abuses.</div>
+<div class="zn-body__paragraph"><em>This story has been updated with comments from Sen. Jeff Merkley. </em></div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/20/politics/biden-administration-myanmar-military-genocide/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="421"\> 

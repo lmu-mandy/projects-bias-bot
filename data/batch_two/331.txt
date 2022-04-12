@@ -1,0 +1,20 @@
+<div><h1 class="headline">NYC landlord publicly calls out tenants for not paying rent with massive banners</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A New York City landlord has publicly shamed his tenants for not paying rent after they accrued $17,000 in back rent, according to a local report.</p>
+<p class="speakable">Calvin and Jean Thompson hung banners that read "MY TENANTS ON THE FIRST FLOOR ARE NOT PAYING RENT" above the first-floor rental in Queens, the New York Post reported. The enormous banners can be seen from the Belt Parkway.</p>
+<p></p>
+<p>"It’s uncomfortable that we have to hang these up, but we’re $20,000 uncomfortable, so I think a sign is very minor," the Thompsons’ son, Calvin Jr., told the paper.</p>
+<p>The Thompsons told the paper that after they raised the rent $100 from $1,800 to $1,900 – the first hike in 9 years – the tenants refused to pay the new amount. </p>
+<p>
+      FILE - Housing activists march across town toward New York Gov. Kathy Hochul's office, calling for an extension of pandemic-era eviction protections, Tuesday, Aug. 31, 2021, in New York. Leaders of New York's Democratic-controlled Legislature want to boost funding for housing, child care and home care in this year's budget. Legislative leaders are negotiating with Gov. Kathy Hochul to pass a budget by April 1, 2022.  (AP Photo/Mary Altaffer, File)
+      </p>
+<p>The tenants told the paper that they tried to drop off $1,800 in rent instead of the new amount, but the Thompsons refused to take it. They said that’s when they stopped paying rent.</p>
+<p>"I don’t think a $100 increase for almost a decade of living is unreasonable," Calvin Jr. said. "There are plenty of landlords in our situation because of COVID. A lot of eviction cases are backlogged. She knows this and is going to ride this out."</p>
+<p>New York's eviction moratorium expired in January. Individuals who applied for rental assistance have eviction protection while their applications are reviewed. But housing advocates say such protections won't last forever.</p>
+<p></p>
+<p>There are nearly 20,000 eviction cases pending in New York City alone, according to the Post.</p>
+<p>Meanwhile, The New York State Assembly and Senate have proposed adding at least $1 billion in funding to New York's Emergency Rental Assistance Program, which has run out of money.</p>
+<p><i>The Associated Press contributed to this report.</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/nyc-landlord-tenants-paying-rent"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="331"\> 

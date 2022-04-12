@@ -1,0 +1,11 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Vera Wang: I find ageism so old-fashioned</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Designer and fashion icon Vera Wang became a viral sensation during lockdown, with many people shocked by how youthful she looks at the age of 72. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In an exclusive interview with BBC 100 Women, the New York-born businesswoman shares her views on ageism and how she's dealt with failure.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">Interview by Nada Tawfik</i></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">Filmed by Andrew Blum</i></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">Produced by Georgina Pearce and Valeria Perasso </i></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">Edited by Rebecca Thorn</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60651587"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="2"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="449"\> 
