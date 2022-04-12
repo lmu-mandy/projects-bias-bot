@@ -1,0 +1,19 @@
+<div><h1 class="pg-headline">Abigail Disney on right-wing media attacks on the company: 'It's absurd'</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source">New York  (CNN)</cite>Abigail Disney shared what she thinks the entertainment company should do in the wake of recent right-wing media attacks.</p>
+<div class="zn-body__paragraph">Some conservatives are trying to attach sexual predation claims or allegations of being sympathetic to pedophiles to their opponents as the November midterms approach, and their latest target is the Walt Disney Company, CNN's chief media correspondent Brian Stelter said on "Reliable Sources" Sunday. </div>
+<div class="zn-body__paragraph">"These GOP media stars can claim they're just protecting kids," Stelter said. "But they are also demonizing gay teachers and condemning inclusive Disney shows." </div>
+<div class="zn-body__paragraph">Disney has never been shy about calling out the company her grandfather co-founded — she criticized management for furloughing workers during the pandemic and for prioritizing shareholders and its CEO over employees. But Disney understands why the company has been the target of what she sees as a "coordinated, strategic plan."</div>
+<div class="zn-body__paragraph">"It's so woven into families," Disney said of the entertainment giant. "If you can create this idea that somebody's in there trying to indoctrinate your child, the paranoid imagination can run circles."</div>
+<div class="zn-body__paragraph">Disney said the company stands for love and acceptance, family and joy. </div>
+<div class="zn-body__paragraph">"This is absurd," Disney said of the unfounded criticisms. </div>
+<div class="zn-body__paragraph">The demonizing of the LBGTQ community is also an attempt to push history backwards, she added.</div>
+<div class="zn-body__paragraph">"There have been gay people whether or not the word was ever spoken," Disney said. "It denies the fact that everyone, conservative or not, has a gay friend or a transgender family member."</div>
+<div class="zn-body__paragraph">Florida Governor Ron Desantis and state Republican lawmakers recently passed the so called "Don't Say Gay" bill, which bars elementary school educators from discussing gender identity and sexual orientation issues with students and is at the root of the conservative backlash against Disney. Desantis signaled support for stripping the compnay of its 55-year-old special status that allows it to operate as a quasi independent government inside its Orlando theme park. </div>
+<div class="zn-body__paragraph">"This attack against Disney was so timed and rolled out so strategically that it was really hard for me to imagine that it didn't come from a series of decisions that got made in the background," Disney said. </div>
+<div class="zn-body__paragraph">Disney said the company's CEO Bob Chapek need to be courageous and take a hard stance. </div>
+<div class="zn-body__paragraph">"You can't claim neutrality if you're supporting the people who write these laws," Disney said. "But on top of it, there is no neutrality anymore."</div>
+<div class="zn-body__paragraph"></div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/10/media/abigail-disney-reliable-sources/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="112"\> 

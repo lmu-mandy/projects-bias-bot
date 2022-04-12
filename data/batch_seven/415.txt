@@ -1,0 +1,20 @@
+<div><h1 class="pg-headline">Texas district attorney says he will drop murder charge against woman in connection with 'self-induced abortion'</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>A Texas district attorney is filing a motion to dismiss a murder charge against a woman arrested last week in connection with what law enforcement called "the death of an individual by self-induced abortion." </p>
+<div class="zn-body__paragraph">After a review of the case, Starr County District Attorney Gocha Allen Ramirez concluded that the woman "cannot and should not be prosecuted for the allegation against her," the DA said in a statement.</div>
+<div class="zn-body__paragraph">It's unclear whether the woman, who CNN is not naming, had an abortion herself or had in some way assisted in one.</div>
+<div class="zn-body__paragraph">The Texas woman was initially indicted on a murder charge after "intentionally and knowingly caus[ing] the death of an individual by self-induced abortion," according to the statement from Maj. Carlos Delgado of the Starr County Sheriff's Office, obtained by CNN affiliate KRGV.</div>
+<div class="zn-body__paragraph">Ramirez will file the motion to dismiss the indictment on Monday, his statement said, but stressed that the sheriff's office acted according to its responsibilities under the law.</div>
+<div class="zn-body__paragraph">"In reviewing this case, it is clear that the Starr County Sheriff's Department did their duty in investigating the incident brought to their attention by the reporting hospital. To ignore the incident would have been a dereliction of their duty," Ramirez's statement reads.</div>
+<div class="zn-body__paragraph">"Prosecutorial discretion rests with the District Attorney's office, and in the State of Texas a prosecutor's oath is to do justice. Following that oath, the only correct outcome to this matter is to immediately dismiss the indictment," Ramirez adds.</div>
+<div class="zn-body__paragraph">CNN's calls and emails to Delgado and the sheriff's office were not returned on Saturday or Sunday.</div>
+<div class="zn-body__paragraph">The woman was arrested Thursday and detained in Starr County on a $500,000 bond, the sheriff's statement says. She was released on Saturday, according to the Frontera Fund, an abortion advocacy organization in the Rio Grande Valley that has taken a strong interest in her case.</div>
+<div class="zn-body__paragraph">The woman's lawyer did not respond to CNN's request for comment Saturday and Sunday. Messages were also left with representatives from the Frontera Fund over the weekend.</div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph">News of the arrest provoked outrage from abortion-rights supporters in light of Texas' strict abortion legislation passed last year. One new law bans abortion providers from carrying out terminations after early cardiac activity is detected in a fetus. A second law signed by Gov. Greg Abbott in September prohibits a person "from providing an abortion-inducing drug to a pregnant woman without satisfying the applicable informed consent requirements for abortions."</div>
+<div class="zn-body__paragraph">Ramirez acknowledged in his statement that "it is clear to me that the events leading up to this indictment have taken a toll" on the woman and her family. </div>
+<div class="zn-body__paragraph">"To ignore this fact would be shortsighted. The issues surrounding this matter are clearly contentious, however based on Texas law and the facts presented, it is not a criminal matter," Ramirez said.</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Monique Smith contributed to this report.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/10/us/texas-district-attorney-drops-murder-charge/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="415"\> 

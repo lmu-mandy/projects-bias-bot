@@ -1,0 +1,30 @@
+<div><h1 class="headline">NYC high school shooting: 17-year-old arrested, charged with murder</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A 17-year-old was arrested and charged with murder, attempted murder and criminal possession of a weapon on Saturday after police say he shot and killed a 16-year-old girl and injured two others in New York City's Bronx borough on Friday.</p>
+<p class="speakable">In a press conference, the New York Police Department (NYPD) called the shooter an "emboldened individual." </p>
+<p>Deputy Police Chief Timothy McCormack said the case was not finished yet, and that crime scenes were still being processed. </p>
+<p></p>
+<p>Authorities noted Friday that the teenagers were caught in the middle of a dispute as they were possibly walking home from school. </p>
+<p>The deceased victim was hit in the torso. Another 16-year-old girl was hit in the leg and a 17-year-old boy was wounded in the buttocks. Both are expected to survive.</p>
+<p>The gunfire erupted just before 1:45 p.m. ET at the corner of East 156th Street and St Ann's Avenue outside the South Bronx Educational Campus. </p>
+<p>The campus is home to two schools: Mott Haven Village Prep and University Heights Secondary School.</p>
+<p>The Department of Education said two of the teens went to Mott Haven. The third teen went to University Prep Charter High School.</p>
+<p>One suspect was standing on a corner "gesturing" to someone on an opposite corner, police explained then. </p>
+<p>After some back-and-forth, the suspect pulled out a firearm and opened fire, they said. </p>
+<p></p>
+<p>McCormack told reporters that six shell casings had been recovered from the scene. </p>
+<p>"We have two families that are completely destroyed right now. Our victim’s family and our shooter’s family. A hard-working woman raising a child who has zero police contact at all and he goes from smoking marijuana to killing somebody," McCormack added.</p>
+<p>New York City Mayor Eric Adams, who has made fighting crime a priority since taking office on Jan.1, tweeted about the shooting on Friday. </p>
+<p><span>The scene where a teenage girl was killed Friday and two other teens were injured by gunfire in New York City.</span> <span>(WNYW)</span></p>
+<p><span>Markers note shell casings on the ground in the Bronx, New York where a teenage girl was shot and killed Friday and two other teens were injured.</span> <span>(WNYW)</span></p>
+<p><span>The scene where a teenage girl was killed Friday and two other teens were injured by gunfire in New York City.</span> <span>(WNYW)</span></p>
+<p>"We lost a 16 year old baby in the Bronx today. We pray for this young girl, for her family, and for the other two victims in the hospital. It’s a tragedy. It’s unacceptable. It’s why we can’t abandon our streets to gun violence," he wrote.</p>
+<p>Crime in the Big Apple has soared amidst the COVID-19 pandemic. </p>
+<p>In the first three months of 2022, <u>crime overall jumped 44%</u> compared to the same time frame in 2022, according to NYPD data. </p>
+<p></p>
+<p>The number of children injured by gunfire in New York City has nearly doubled this year. As of March 15, 24 children were shot year-to-date, compared to the 13 reported during the same period in 2021. </p>
+<p>However, child murder victims as of the same time frame were down.</p>
+<p><i>Fox News' Stephanie Pagones, Louis Casiano and The Associated Press contributed to this report.</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/nyc-high-school-shooting-charged-with-murder"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="439"\> 

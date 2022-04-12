@@ -1,0 +1,20 @@
+<div><h1 class="headline">NYC Mayor Eric Adams tests positive for COVID-19 after waking up with 'raspy voice'</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">New York City Mayor Eric Adams tested positive for COVID-19 on Sunday, according to a statement.</p>
+<p class="speakable">Adams woke up with a "raspy voice" on Sunday and decided to take a COVID-19 test, which came back positive.</p>
+<p></p>
+<p>
+      New York Mayor Eric Adams speaks during a news conference at City Hall in New York City, U.S., January 24, 2022. 
+      </p>
+<p>A statement from Adams' office states that the mayor does not have any other COVID-19 symptoms.</p>
+<p>"This morning, Mayor Adams woke up with a raspy voice and, out of an abundance of caution, took a PCR test that has now come back positive," the spokesperson said. "At this time, the mayor has no other symptoms, but he is already isolating and will be canceling all public events for the remainder of the week. He is also going to immediately begin taking the anti-viral medications offered for free to New York City residents and encourages all New Yorkers eligible for these medications to take them as well."</p>
+<p></p>
+<p>
+      New York City Mayor Eric Adams speaks addresses the press about the scene where NYPD officers were shot while responding to a domestic violence call in the Harlem neighborhood of New York City, U.S., January 21, 2022. 
+      </p>
+<p>While Adams is in isolation, he will work remotely, according to the statement.</p>
+<p><i>This is a developing story. Check back for updates.</i></p>
+<p>Adam Sabes is a writer for Fox News Digital. Story tips can be sent to Adam.Sabes@fox.com and on Twitter @asabes10.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/nyc-mayor-eric-adams-positive-covid"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="442"\> 

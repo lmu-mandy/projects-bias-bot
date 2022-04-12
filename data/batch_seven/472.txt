@@ -1,0 +1,19 @@
+<div><h1 class="headline">Massive fire at California Home Depot visible from space, authorities probe cause</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">California's firefighters contained a massive five-alarm blaze at a Home Depot in San Jose Saturday night. </p>
+<p class="speakable">The massive blaze, which could be seen from space, was first reported around 5 p.m. local time, KGO-TV reported. </p>
+<p></p>
+<p>The San Jose Fire Department said in an update Sunday morning that crews remained on the scene conducting fire watch, as the fire was still smoldering and producing light smoke. </p>
+<p><span>Aerial images of a massive fire at a Home Depot in San Jose, California. </span> <span>(KGO via NNS)</span></p>
+<p><span>Aerial images of a massive fire at a Home Depot in San Jose, California. </span> <span>(KGO via NNS)</span></p>
+<p>The department said those in the path of smoke are advised to continue to shelter in place with windows/doors closed. A press conference was expected later in the morning. </p>
+<p>The San Jose Fire Department thanked several other agencies, including the Santa Clara City and Santa Clara County Fire Departments, San Jose Police Department, Santa Clara County Ambulance, San Jose Water and Pacific Gas &amp; Electric for help backfilling resources as the fire raged on overnight. </p>
+<p><span>Aerial images of a massive fire at a Home Depot in San Jose, California. </span> <span>(KGO via NNS )</span></p>
+<p><span>Aerial images of a massive fire at a Home Depot in San Jose, California. </span> <span>(KGO via NNS. )</span></p>
+<p>No injuries to fire personnel or citizens were initially reported related to the incident.</p>
+<p></p>
+<p>The National Weather Service of the San Francisco Bay Area said the structure fire could be seen from space. The cause of the fire remains under investigation. </p>
+<p>Danielle Wallace is a reporter for Fox News Digital covering politics, crime, police and more. Story tips can be sent to danielle.wallace@fox.com and on Twitter: @danimwallace. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/california-fire-home-depot-san-jose-visible-space"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="472"\> 

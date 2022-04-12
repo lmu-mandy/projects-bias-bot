@@ -1,0 +1,18 @@
+<div><h1 class="headline">Iowa nightclub shooting leaves 2 dead, 10 injured</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Gunfire erupted at a nightclub in Cedar Rapids, Iowa, early Sunday, killing at least two people and wounding nearly a dozen others, authorities said.</p>
+<p class="speakable">The shooting happened at 1:27 a.m. at the Taboo Nightclub and Lounge in the city’s downtown, Cedar Rapids police said in a statement.</p>
+<p></p>
+<p>"Two individuals are confirmed dead and approximately ten more are injured and receiving medical attention at multiple local hospitals," the department said.</p>
+<p>
+      The shooting happened a.m. at the Taboo Nightclub and Lounge on 415 Third Street Southeast in the city’s downtown, Cedar Rapids police said in a statement.
+      </p>
+<p>Officers were on routine patrol in the downtown area at the time of the shooting and responded quickly to the scene. </p>
+<p>As of 5 a.m., police said the scene was secure and there was no threat to public safety.</p>
+<p>No details on what led to the shooting or who fired the shots were immediately released. </p>
+<p></p>
+<p>Detectives were interviewing witnesses as the investigation into the shooting continued.</p>
+<p>Authorities asked anyone who was at the nightclub at the time of the shooting or with knowledge of the incident to contact Cedar Rapids Police at 319-286-5491 or Linn County Crime Stoppers at 1-800-272-7463.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/iowa-nightclub-shooting-dead-injured-cedar-rapids"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="180"\> 

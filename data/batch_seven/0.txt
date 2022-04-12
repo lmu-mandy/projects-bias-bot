@@ -1,0 +1,12 @@
+<div><h1 class="headline">Good Samaritans pull woman from burning car near Supreme Court</h1><p>Fox News congressional correspondent Chad Pergram looks back at the animal's moment in the spotlight on 'Fox News Live.'</p>
+<p class="speakable">Good Samaritans pulled a man and woman from a burning car near the U.S. Supreme Court early Saturday.</p>
+<p class="speakable">U.S. Capitol Police say the driver, 22-year-old Zoe Williams, has been charged with driving under the influence. Both she and her passenger, an unnamed male, were brought to the hospital with non-life threatening injuries.</p>
+<p></p>
+<p>Williams crashed the car into a Capitol Hill barrier at 2 a.m. on Saturday. Drivers pulled over to help and ultimately a citizen and a Supreme Court police officer pulled the pair out of the vehicle as it burned.</p>
+<p>Police released photos of the burned-out vehicle later Saturday.</p>
+<p></p>
+<p>Send tips to Anders.Hagstrom@Fox.com, or on Twitter: @Hagstrom_Anders</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/woman-pulled-burning-car-capitol-hill-dui"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="0"\> 

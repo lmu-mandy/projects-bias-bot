@@ -1,0 +1,7 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Curious owl inspects TV weather station camera</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A TV weather station camera has captured the moment a curious owl came to inspect it.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The camera sits atop a bank in Great Falls, Montana and sometimes captures spiders and other insects, but on this occasion a more unusual animal paid a visit.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60989415"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="171"\> 

@@ -1,0 +1,15 @@
+<div><h1 class="pg-headline">The search for the 2022 Gerber Baby is on</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>Have you ever wondered if your baby is cute enough to be the face of Gerber's baby food? This month you can find out.</p>
+<div class="zn-body__paragraph">The 2022 Photo Search, in which eager parents submit photos of their smiling infants for a chance to be Gerber's "Spokesbaby," launched on Monday, according to a press release from the company.</div>
+<div class="zn-body__paragraph">The lucky winner, who will earn the title of "Spokesbaby" and "Chief Growing Officer," will be featured on the baby food company's social media channels and in its ad campaigns throughout the year. And they will also receive a $25,000 prize.</div>
+<div class="zn-body__paragraph">"This year, Gerber is searching for a candidate that can help share smiles and inspire joy in parents and his/her peers," Gerber said on their website. "An irresistible giggle is strongly preferred, as well as an undeniable lovable personality." </div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph">Children ages 0-4 are eligible to enter the competition. Parents and guardians can submit their child's "smiliest" photos and videos to Gerber's portal before Thursday, April 14.</div>
+<div class="zn-body__paragraph">For the first time, this year Gerber will match the winner's cash prize with a $25,000 donation to the nonprofit March of Dimes' maternal and infant health programs. </div>
+<div class="zn-body__paragraph">"Babies have the power to unite us through their happiness, and we at Gerber support furthering the joy and wellbeing of all babies," said Tarun Malkani, Gerber president and CEO, according to the company's press release. </div>
+<div class="zn-body__paragraph">The 2022 winner will follow in the tiny footsteps of Zane Kahin, the 2021 Gerber baby. In the past few years, the Gerber Photo Search has seen several milestones. The 2020 winner, Magnolia, was the first adopted Gerber baby, while 2019's Kairi was the first Gerber baby of Hmong descent.</div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/10/business/gerber-baby-competition-trnd/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="308"\> 

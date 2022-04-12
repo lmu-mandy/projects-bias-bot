@@ -1,0 +1,15 @@
+<div><h1 class="headline">Chicago driver fleeing traffic stop barrels through crowd, hits police officer and child</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A Chicago police officer and two other people were injured Saturday night after a driver fled a traffic stop.<br><br>A police sergeant stopped the driver of a red Hyundai around 8 p.m. in the River North neighborhood. When he asked the driver to exit the vehicle, the driver refused, put his vehicle in gear and drove off, police said. </p>
+<p>
+      Chicago Police Department logo.
+      </p>
+<p class="speakable"><br><br>"An auto was driving at a high rate of speed and hit some pedestrians that were crossing the street," Fire Chief Juan Hernandez told The Chicago Tribune.<br><br>"All I hear is a screech and I turn around behind me, and the officer is laying there, they're all trying to get to the other officer. It was weird. He was just laying there screaming, like, whirling around in pain. And I just see a lady fly in the air because he hit the lady so bad. And she fell down," China Robinson told CBS Chicago. <br><br></p>
+<p>
+      The Chicago skyline, photographed from outside the Adler Planetarium in Chicago, Illinois on March 1, 2020.  
+      </p>
+<p>Two women, a child and a Chicago police officer were among those taken to hospitals, The Chicago Tribune reported. A fifth person declined medical attention at the scene, Hernandez told the newspaper, who said the child may be as young as 7.<br><br><br><br>The officer's injuries are not life-threatening.<br><br>The driver took off from the scene. No one was in custody as of Saturday evening.  </p>
+<p>Pilar Arias is a multimedia journalist with more than 10 years of experience in broadcast, digital and print production. She covers a wide variety of topics. @PilarFOXNews.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/chicago-driver-fleeing-traffic-stop-runs-over-officer-child-and-one-other-person"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="289"\> 

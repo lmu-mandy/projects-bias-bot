@@ -1,0 +1,10 @@
+<div><h1 class="pg-headline">Rep. Cheney says it is 'it is absolutely clear that what President Trump was doing ... was unlawful'</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>Rep. Liz Cheney said Sunday that the House select committee investigating the January 6th insurrection has "not made a decision" on criminal referrals to the Department of Justice, but added it is "absolutely clear that what President Trump was dealing with when a number of people around him were doing that they knew it was unlawful. They did it anyway."</p>
+<div class="zn-body__paragraph">"I think what we have seen is a massive and well-organized and well-planned effort that used multiple tools to try to overturn an election," the Wyoming Republican told CNN's Jake Tapper on "State of the Union."</div>
+<div class="zn-body__paragraph">Cheney, who serves on the committee, also pushed back on a Sunday New York Times article which said the committee is split on whether to refer Trump for criminal contempt, saying "There's not really a dispute on the committee."</div>
+<div class="zn-body__paragraph">"The committee is working in a really collaborative way to discuss these issues as we are with all of the issues we're addressing and we'll continue to work together to do so," she said. "I wouldn't characterize there being a dispute on the committee. I think it is the single most collaborative committee on which I've ever served."</div>
+<div class="zn-body__paragraph">When asked about the committee's interview with Trump's daughter Ivanka Trump, Cheney said "her testimony was helpful," but did not provide further detail. Ivanka Trump voluntarily met with the committee for close to eight hours last week.</div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/10/politics/liz-cheney-january-6-committee-cnntv/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="255"\> 

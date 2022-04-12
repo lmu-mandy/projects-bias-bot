@@ -1,0 +1,14 @@
+<div><h1 class="pg-headline">4 people shot near Nationals Park, police say</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>Four people, including two teens, were shot near Nationals Park in Washington, DC, on Saturday night, police said.</p>
+<div class="zn-body__paragraph">The shootings happened less than an hour after an MLB game between the Washington Nationals and the New York Mets ended.</div>
+<div class="zn-body__paragraph">Just before 11 p.m., police responded to a report of a shooting and discovered a 16-year-old female suffering from a non-life-threatening gunshot wound, police spokesperson Kristen Metzger said.</div>
+<div class="zn-body__paragraph">An adult male was then found on another street nearby, south of the stadium, with a wound of similar severity.  </div>
+<div class="zn-body__paragraph">Another adult male and a 17-year-old male were found with gunshot wounds at the Navy Yard Metro Station, which is just north of the stadium, according to Metzger.</div>
+<div class="zn-body__paragraph">None of the victims' injuries appear to be life-threatening, Metzger told CNN in an email Sunday.</div>
+<div class="zn-body__paragraph">In a tweet late Saturday night, police said they were looking for two people potentially connected to the shooting, but as of Sunday morning, there were no suspects in custody.</div>
+<div class="zn-body__paragraph">The Metropolitan Police Department said it was looking for a man in a black sweatshirt and light jeans carrying a silver handgun and a woman wearing a blue hoodie or jacket with white writing, CNN affiliate WJLA reported.</div>
+<div class="zn-body__paragraph">Saturday night's shootings happened near the site of another shooting in 2021, in which three people were injured while a game was still going on.</div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/10/us/washington-nationals-park-shooting/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="200"\> 

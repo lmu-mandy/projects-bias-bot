@@ -1,0 +1,17 @@
+<div><h1 class="headline">Power in Puerto Rico restored to over 1 million after widespread blackout</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Power has been restored to over 1 million customers in Puerto Rico after a fire at a main power plant caused the biggest blackout so far this year across the U.S. territory.</p>
+<p class="speakable">Crews restored power to at least 1.4 million of the nearly 1.5 million customers experiencing an outage as of early Sunday morning, according to Luma Energy, the company that took over transmission and distribution from Puerto Rico’s Electric Power Authority last year.</p>
+<p></p>
+<p>Officials with Luma have said they don’t know exactly when power would be fully restored but note crews have been working nonstop.</p>
+<p>
+      Traffic lights are out of service on a street in San Juan, Puerto Rico, April 7, 2022. 
+      </p>
+<p>The widespread outage forced the closure of government offices and the cancellation of classes. It also left some 160,000 customers without water and snarled traffic across the island of 3.2 million people.</p>
+<p>The company has said a circuit breaker failure could have caused the blackout after a fire erupted late Wednesday at the Costa Sur power plant in southern Puerto Rico. The company added it will be weeks before it knows the exact cause of the interruption.</p>
+<p></p>
+<p>Luma CEO Wayne Stensby called the outage "very unusual" and said it demonstrated the fragility of Puerto Rico’s electrical grid, which Hurricane Maria razed in 2017 as a powerful Category 4 storm. Emergency repairs were made at the time, but reconstruction efforts have yet to start on the crumbling electrical grid that has caused weekly outages in dozens of communities.</p>
+<p><i>The Associated Press contributed to this report.</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/puerto-rico-blackout-power-restored"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="7"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="145"\> 
