@@ -1,0 +1,22 @@
+<div><h1 class="pg-headline">After rounds of tornadoes across the South, storm system threatens North Carolina, Virginia and Florida next</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>After dozens of tornadoes rolled through the South, another storm system is threatening to deliver powerful winds and possibly more tornadoes Thursday to the coasts of North Carolina and Virginia along with parts of Florida. </p>
+<div class="zn-body__paragraph">About 6.3 million people in eastern North Carolina and southeast Virginia are under a tornado watch until 9 p.m. ET, Thursday as the Storm Prediction Center warns they face a triple-whammy of strong winds, hail and potential tornadoes.</div>
+<div class="zn-body__paragraph">The latest warnings come after the region saw at least 62 tornado reports this week alone, coupled with strong storms that damaged homes and businesses across multiple states. </div>
+<div class="zn-body__paragraph">"Strong to severe thunderstorms are possible on Thursday across eastern North Carolina and southeast Virginia, as well as across portions of the Florida Peninsula," the prediction center warned. "Damaging wind gusts, hail, and a couple of tornadoes will be possible."</div>
+<div class="zn-body__paragraph">The worst of the storms could potentially hit Virginia Beach, Chesapeake and Norfolk in Virginia along with Tampa and St. Petersburg in Florida. </div>
+<div class="zn-body__paragraph">The severe weather system caused thousands of flight delays, according to Federal Aviation Administration data.</div>
+<div class="zn-body__paragraph">Flights bound for New York's LaGuardia Airport had to be halted and there were delays at John F. Kennedy International Airport and nearby Newark Liberty International Airport.</div>
+<div class="zn-body__paragraph">Storms also affected air travel in Florida, according to the FAA, with delays reported in Orlando, Miami and Tampa on Thursday afternoon.</div>
+<div class="zn-body__paragraph"><h3>South grapples with back-to-back outbreaks</h3></div>
+<div class="zn-body__paragraph">Multiple rounds of severe and deadly weather have gripped the South in recent days, killing at least three people.</div>
+<div class="zn-body__paragraph">On Wednesday, two tornadoes were seen around Valdosta, Georgia, during the evening hours.</div>
+<div class="zn-body__paragraph">On Tuesday, a man was killed in East Texas where a tree fell on an RV in the Whitehouse community, according to the Smith County emergency management coordinator. Later that same day, a man in Georgia died when a tornado rolled through Bryan County.</div>
+<div class="zn-body__paragraph">And in Webster Parish, Louisiana, a man died early Tuesday when his car crashed into a downed tree, state police said.</div>
+<div class="zn-body__paragraph">In South Carolina, the town of Monetta saw an EF-2 tornado that delivered estimated maximum winds of 130 mph, the National Weather Service confirmed.</div>
+<div class="zn-body__paragraph">Four homes were destroyed and five others saw major damage in Allendale County, South Carolina, where suspected tornadoes were reported, the state emergency management division said. At least three people suffered non-life-threatening injuries, the division added. </div>
+<div class="zn-body__paragraph">The relentless severe weather was also responsible for storm-related injuries and rescues due to the fast-moving floodwaters in multiple states.</div>
+<div class="zn-body__paragraph">Late last month, Texas along with Mississippi and Louisiana were slammed with tornadoes that left at least one person dead.</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Mallika Kalingal, Dave Alsup, Mike Saenz, Gene Norman and Rebekah Riess contributed to this report.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/07/weather/severe-weather-south-thursday/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="363"\> 

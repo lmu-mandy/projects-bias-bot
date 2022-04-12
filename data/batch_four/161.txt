@@ -1,0 +1,46 @@
+<div><h1 class="headline">US Navy intends to decommission some of its newest warships</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">The Navy that once wanted smaller, speedy warships to chase down pirates has made a speedy pivot to Russia and China – and many of those recently built ships could be retired.</p>
+<p class="speakable">The U.S. Navy wants to decommission nine ships in the Freedom-class of littoral combat ships – warships that cost about $4.5 billion to build.</p>
+<p></p>
+<p>The Navy contends in its budget proposal that the move would free up $50 million per ship annually for other priorities. But it would also reduce the size of the fleet that’s already surpassed by China in sheer numbers, something that could cause members of Congress to balk.</p>
+<p>Adm. Mike Gilday, chief of naval operations, defended the proposal that emphasizes long-range weapons and modern warships, while shedding other ships ill-equipped to face current threats.</p>
+<p>
+      The USS Detroit, a Freedom-class of littoral combat ship, arrives Oct. 14, 2016, in Detroit.
+      </p>
+<p>"We need a ready, capable, lethal force more than we need a bigger force that’s less ready, less lethal and less capable," he said Monday at the Navy League’s Sea-Air-Space symposium in Maryland.</p>
+<p></p>
+<p>All told, the Navy wants to scrap 24 ships, including five cruisers and a pair of Los Angeles-class submarines, as part of its cost-cutting needed to maintain the existing fleet and build modern warships. Those cuts surpass the proposed nine ships to be built.</p>
+<p>Most of them are older vessels. However, the littoral combat ships that are targeted are young. The oldest of them is 10 years old.</p>
+<p></p>
+<p>The littoral combat ship program was announced after the Sept. 11, 2001, terrorist attacks. The ships topped 50 mph (80 kph) – fast enough to chase down pirates – and were highly maneuverable, even in shallow water, thanks to steerable waterjets instead of propellers.</p>
+<p>The ships were supposed to be made versatile through plug-and-play mission modules for surface combat, mine-sweeping operations or anti-submarine warfare. But those mission modules were beset by problems, and the anti-submarine capability was canceled in the new budget.</p>
+<p>
+      Crew members of the USS Sioux City, a Freedom-class of littoral combat ship, gather before the ship's commissioning ceremony on Nov. 17, 2018, at the U.S. Naval Academy in Annapolis, Maryland.
+      </p>
+<p>And what about that speed? The fastest ship can’t outrun missiles, and firing up those marine turbines for an extra burst of speed turned the ships into gas guzzlers, analysts said. Early versions also were criticized as too lightly armed and armored to survive combat.</p>
+<p>The speedy Freedom-class ships proposed for decommissioning feature a traditional steel hull. That entire class of ships suffers from a propulsion defect that will be costly to repair. The Navy proposes keeping a second variant, the aluminum Independence class.</p>
+<p></p>
+<p>U.S. Senate Armed Services Chair Jim Inhofe, R-Okla., said the program was plagued by troubles from the start, and that "moving forward the Navy must avoid similar acquisition disasters."</p>
+<p>U.S. Rep. Elaine Luria, D-Virginia, was more blunt, tweeting that it "sucks" to be decommissioning so many ships, especially newer ones.</p>
+<p>"The Navy owes a public apology to American taxpayers for wasting tens of billions of dollars on ships they now say serve no purpose," she said.</p>
+<p>
+      A sailor salutes from the USS Sioux City during the ship's commissioning ceremony, Nov. 17, 2018, in Annapolis, Maryland.
+      </p>
+<p>Some detractors proclaimed littoral combat ships to be the Navy’s "Little Crappy Ship," but that’s not fair, said defense analyst Loren Thompson.</p>
+<p>"It’s not a little crappy ship. It does what it was supposed to do. What it was supposed to do isn’t enough for the kind of threats that we face today," said Thompson, from the Lexington Institute.</p>
+<p>In the Navy’s defense, threats shifted swiftly from the Cold War to the war on terror to the current Great Power Competition in which Russia and China are asserting themselves, he said.</p>
+<p></p>
+<p>In the end, the Navy may be content with smaller numbers of Freedom-class ships for maritime security and small surface combatant operations, said Bryan Clark, defense analyst at the Hudson Institute.</p>
+<p>Congress must sign off on the Navy’s proposal to decommission ships ahead of their projected service life.</p>
+<p>The House Armed Services Committee on Tuesday grilled Defense Secretary Lloyd Austin and Army Gen. Mark Milley, chair of the Joint Chiefs of Staff, on the proposal.</p>
+<p>
+      The USS Milwaukee, a Freedom-class of littoral combat ship, cruises in the Atlantic Ocean on June 27, 2019.
+      </p>
+<p>U.S. Rep. Rob Wittman, R-Va., suggested the ship cuts were "grossly irresponsible" when the U.S. Navy has dipped from 318 ships to 297, while the Chinese fleet has grown from 210 to 360 ships over the past two decades.</p>
+<p>Milley said it’s important to focus on the Navy’s capabilities rather than the size of its fleet.</p>
+<p></p>
+<p>"I would bias toward capability rather than just sheer numbers," he said.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/us-navy-to-decommission-newest-warships"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="161"\> 

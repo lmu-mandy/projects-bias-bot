@@ -1,0 +1,15 @@
+<div><h1 class="headline">Brooklyn Bridge climber coaxed down during rush-hour drama caught on video</h1><p>The New York Police Department assisted a man off the cables of the Brooklyn Bridge on April 7, 2022. Credit: @TimothyDavidNYC / TMX</p>
+<p class="speakable">The New York Police Department says a man was assisted off the cables of the Brooklyn Bridge without incident.</p>
+<p class="speakable">Police first received the call just before 6:30 a.m. Thursday. The bridge was reopened to traffic before 8 a.m.</p>
+<p>
+</p>
+<p></p>
+<p>A department spokeswoman did not know if the man was suicidal, but he was taken to a hospital once off the bridge. She also did not mention if the man would face any charges. </p>
+<p></p>
+<p></p>
+<p>The Daily Mail reported he was wearing an HH Cares T-shirt, which is the environmental and sustainability charity arm of The Howard Hughes Corp.</p>
+<p>Pilar Arias is a multimedia journalist with more than 10 years of experience in broadcast, digital and print production. She covers a wide variety of topics. @PilarFOXNews.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/brooklyn-bridge-climber-rush-hour-drama-video"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="347"\> 

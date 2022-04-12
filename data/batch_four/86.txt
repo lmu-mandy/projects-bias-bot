@@ -1,0 +1,18 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Rabid fox bites nine people on US Capitol Hill</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">A rabid fox has been "humanely euthanised" after at least biting nine people - including a congressman and a journalist - in Washington DC. </b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Three fox kits have also been put down after their mother was trapped and confirmed to have the disease.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The fox attacks stirred up a frenzy on Capitol Hill, frequented by many politicians, as well as on Twitter. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Officials are urging residents to report encounters with any aggressive, sick or injured foxes.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Reports of an aggressive fox began on Monday. The next day, Capitol Police trapped the fox for testing and confirmed she had rabies, an infectious disease that affects the nervous systems and is passed on through bites and scratches from an infected animal.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">On Thursday, officials said her baby foxes had to also be euthanised since "the kits could have been exposed [to rabies] during grooming or other means". </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"They were no longer able to be safely rehabilitated." </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">One of the bite victims was California congressman Ami Bera, who was walking near one of the Senate office buildings on Monday when he felt something lunge at him, and which he first thought was a small dog<b class="ssrcss-hmf8ql-BoldText e5tfeyi3">. </b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">He told the Associated Press that he used his umbrella to try and fend off the fox during the encounter, which he estimated lasted about 15 seconds. Mr Bera even managed to snap a photo of the fox, which was shared on Twitter. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Politico reporter Ximena Bustillo was another person to be bitten. She later tweeted: "You're telling me I survived three years of a pandemic to be bit by a rabid fox." </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Both have started the first series of four rabies shots as a precaution. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Officials are contacting everyone who had been bitten, though there are no plans to take action against healthy foxes. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Foxes are not uncommon in DC and the National Park Service says the animals adapt well to both city and rural life. There are numerous fox dens on the National Mall, a downtown park that hosts many of the city's iconic monuments, but their location can change year to year. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The Capitol complex only recently reopened after having been closed for most of the pandemic. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-61031683"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="86"\> 

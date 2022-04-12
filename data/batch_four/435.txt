@@ -1,0 +1,15 @@
+<div><h1 class="pg-headline">Iowa survivalist who allegedly faked his own death in 2016 to avoid trial on child pornography charges arrested</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>A Des Moines survivalist who allegedly faked his own death and fled the state to avoid trial on alleged child pornography charges is back in custody, according to a statement from the US Marshals in the Southern District of Iowa.</p>
+<div class="zn-body__paragraph">US Marshals found and arrested 28-year-old Jacob Greer in Spanaway, Washington, on Monday. He had been on the run since 2016, authorities said.</div>
+<div class="zn-body__paragraph">"The arrest of Jacob Greer after six years is a testament to the tenacity of Deputy US Marshals and our investigative partners," Ted Kamatchus, US Marshal for the Southern District of Iowa, said in the Tuesday statement. </div>
+<div class="zn-body__paragraph">"Even though the case went cold, they would not quit," Kamatchus said.</div>
+<div class="zn-body__paragraph">Greer is currently at the Federal Detention Center in Seattle and will be transported to Des Moines to stand trial, accoring to the statement. He will be assigned counsel when he returns to Iowa, the Iowa public defender's office said.</div>
+<div class="zn-body__paragraph">Greer was initially arrested in April 2016 by Immigration and Customs Enforcement officers on charges of alleged receipt and possession of child pornography. He was released on bond the next day under pretrial supervision with an ankle monitor. He was living with his grandmother in Des Moines at the time.</div>
+<div class="zn-body__paragraph">On May 31, 2016, Greer's probation officer was alerted that Greer's ankle monitor had been removed, resulting in a multiagency search effort, the US Marshals statement said.</div>
+<div class="zn-body__paragraph">Authorities found Greer's car with a suicide note inside, but searchers never found his body and a federal arrest warrant for Greer was issued. Investigators later discovered another vehicle associated with Greer at a campground in Flathead, Montana, which he had purchased with a $1,000 loan from a friend, the statement said.</div>
+<div class="zn-body__paragraph">The US Marshals Service said Greer was last seen at a Walmart in Kalispell, Montana, in June 2016, wearing a camouflage hat.</div>
+<div class="zn-body__paragraph">Greer had allegedly fled Iowa with money, a bow, arrows and a backpack full of survival gear and "had plans to live off the land in remote areas of the upper western states or southern Canada, hiding out in abandoned cabins," the statement said.</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Amy Simonson contributed to this report</p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/07/us/iowa-survivalist-arrested/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="435"\> 

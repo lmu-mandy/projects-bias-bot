@@ -1,0 +1,15 @@
+<div><h1 class="headline">Man beaten, stabbed on Chicago transit in third violent attack in as many days</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A 26-year-old man was attacked and stabbed by a group at a downtown CTA station Wednesday night in what was the third attack on CTA in as many days.</p>
+<p class="speakable"></p>
+<p>The victim had been standing at the CTA "L" platform at the Cermak/ McCormick Place Green Line station when a group of three approached him and demanded his property. </p>
+<p>They then physically assaulted him, with one attacker stabbing the victim in the right arm with a knife. </p>
+<p></p>
+<p>The attackers managed to steal the victim's property and the victim ran away from the group. It wasn't until after the attack that the victim realized he had been injured and sought medical treatment at Northwestern Memorial Hospital. He is in good condition, according to officials. </p>
+<p></p>
+<p>This is the third attack this week alone to take place at a CTA station. </p>
+<p>At around 8:30 pm Monday, a Red Line train operator was lured from the train when asked for help in retrieving a cellphone. The operator was allegedly shoved onto the tracks but was not hurt. Later Tuesday, a 43-year-old man was beaten by a group of people and suffered bruising and swelling.</p>
+<p>Haley Chi-Sing is a Fox News Digital production assistant. You can reach her at @haleychising on Twitter.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/man-beaten-stabbed-on-chicago-transit-in-third-violent-attack-in-as-many-days"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="310"\> 

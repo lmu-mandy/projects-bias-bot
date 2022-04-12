@@ -1,0 +1,20 @@
+<div><h1 class="pg-headline">Two killed, many injured in Tel Aviv shooting</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>A shooting in Tel Aviv killed two people and wounded many others late Thursday, Israeli officials said.</p>
+<div class="zn-body__paragraph">A manhunt is currently underway to find the suspected shooter, Tel Aviv police commander Ami Eshed said.</div>
+<div class="zn-body__paragraph">The number of wounded was not immediately clear. Speaking on Israeli TV, Eshed put the number at more than a dozen.</div>
+<div class="zn-body__paragraph">The attack happened at a bar on Dizengoff Street, a popular dining area in the center of the city, an Israeli police commander said.</div>
+<div class="zn-body__paragraph">Journalist Lauren Izso, on the scene shortly after the attack, estimated hundreds of police were involved in securing the area and searching for the gunman.</div>
+<div class="zn-body__paragraph">Speaking on Israeli TV, Tel Aviv mayor Ron Huldai told residents in the city to stay home.</div>
+<div class="zn-body__paragraph">The two people killed were men who were both around 30-years-old, a spokesperson for the Magen David Adom emergency services said.</div>
+<div class="zn-body__paragraph">Tel Aviv's Ichilov hospital, where most of the casualties were taken, said doctors were fighting to save the lives of four people who were wounded.</div>
+<div class="zn-body__paragraph">The shooting is the latest in a series of violent incidents that have put Israel and the Palestinian territories on edge. </div>
+<div class="zn-body__paragraph">In just one week in March, 11 people were killed in three attacks in Israeli towns and cities. It was the deadliest week Israel had seen in years and follows weeks of rising tensions that saw Israelis targeted in stabbing attacks and several Palestinians shot dead by Israeli forces in the West Bank.</div>
+<div class="zn-body__paragraph">That spate of attacks included five people killed just east of Tel Aviv, in the ultra-orthodox city of Bnei Brak.</div>
+<div class="zn-body__paragraph">It's not clear whether Thursday's shooting is connected to the recent violence.</div>
+<div class="zn-body__paragraph">Militant groups in Gaza and the West Bank praised Thursday's attack, though they stopped short of claiming responsibility.</div>
+<div class="zn-body__paragraph">Hamas called it a heroic operation, while Islamic Jihad vowed "resistance will continue."</div>
+<div class="zn-body__paragraph">Condemning the attack, the United Nations Special Coordinator for the Middle East Tor Wennesland, singled out Hamas in a tweet, saying, "Deplore the welcoming of this attack by Hamas; there is no glory in terror. These attacks must stop now and be condemned by all."</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Abeer Salman, Ibrahim Dahman, Andrew Carey and Hadas Gold contributed to this report. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/07/middleeast/tel-aviv-shooting-intl/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="210"\> 

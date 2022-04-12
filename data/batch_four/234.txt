@@ -1,0 +1,11 @@
+<div><h1 class="pg-headline">Michelle Obama: Ketanji Brown Jackson gives Black women and girls 'a new dream to dream'</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source">Washington (CNN)</cite>Former first lady Michelle Obama praised Ketanji Brown Jackson on Thursday, thanking the judge, newly confirmed to the US Supreme Court, for giving Black women and girls "a new dream to dream, a new path to forge, and a future we can all be hopeful for."</p>
+<div class="zn-body__paragraph">"I was so moved to see Justice Ketanji Brown Jackson confirmed this afternoon," the former first lady wrote in an Instagram post. "Like so many of you, I can't help but feel a sense of pride -- a sense of joy -- to know that this deserving, accomplished Black woman will help chart our nation's course. So many women of color now have a new role model to look up to as she serves on the highest court of the land."</div>
+<div class="zn-body__paragraph">Expressing her gratitude, Obama continued: "Thank you, Justice Jackson, for giving Black girls and women everywhere -- including my daughters -- a new dream to dream, a new path to forge, and a future we can all be hopeful for."</div>
+<div class="zn-body__paragraph">Hours earlier, Jackson made history as the first Black woman confirmed to serve on the nation's highest court. Kamala Harris, the first Black woman to serve as vice president, presided over the chamber during the vote in her capacity as president of the Senate.</div>
+<div class="zn-body__paragraph">Jackson will be sworn in after Justice Stephen Breyer retires sometime this summer.</div>
+<div class="zn-body__paragraph">Former President Barack Obama, who made history as America's first Black president, also congratulated Jackson in a tweet, saying, "This is a great day for America, and a proud moment in our history."</div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/07/politics/michelle-obama-ketanji-brown-jackson-supreme-court-confirmation/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="234"\> 

@@ -1,0 +1,7 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">The moment Ketanji Brown Jackson is confirmed to Supreme Court</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Ketanji Brown Jackson was confirmed to the US Supreme Court on Thursday. The historic vote will make her the first black female justice to serve on the nation's highest court. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Three Republican senators voted in support of President Biden's nominee.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-61018819"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="485"\> 

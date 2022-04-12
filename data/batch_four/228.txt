@@ -1,0 +1,14 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Ivanka Trump testifies to Capitol riot committee</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">Former White House adviser Ivanka Trump testified for hours on Tuesday to the congressional committee investigating the 6 January attack on the US Capitol. </b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Ms Trump, 40, was asked for her account of her father's activities as the crisis unfolded.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">She was one of several aides said to have tried to convince the president to condemn the violence.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Her appearance comes days after her husband Jared Kushner, also an ex-White House adviser, met investigators.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The questioning lasted up to eight hours, US media reports. Unlike other witnesses called before the committee, Ms Trump never attempted to invoke her right to remain silent, according to the panel's top chairman. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"She's answering questions," congressman Bennie Thompson said. "Not in a broad, chatty term, but she's answering questions."  </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The committee has also subpoenaed White House records of Mr Trump's meetings and actions on 6 January, but documents acquired by BBC media partner CBS News show no presidential contacts for more than seven hours, as the battle in the Capitol was at its most intense. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">That runs counter to multiple reports of presidential phone calls to Republicans in the US Capitol, including a heated conversation with House minority leader Kevin McCarthy. Ms Trump could shed light on the methods her father used communicate that day.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">One Democratic member of the committee described Mr Kushner's testimony as "helpful" in reconstructing the events of the day.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">As with Mr Kushner and the more than 800 other individuals called by the committee, Ms Trump's testimony has taken place in private. Public hearings are expected in May.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-61004345"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="228"\> 

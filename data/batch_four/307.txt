@@ -1,0 +1,18 @@
+<div><h1 class="headline">Capitol fox kits euthanized by DC health officials after mother tested positive for rabies</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">The three kits of the rabies-infected fox that bothered lawmakers and reporters on Capitol Hill this week have been euthanized, city officials announced Thursday.</p>
+<p class="speakable">The three baby foxes, called kits, were discovered on Capitol grounds shortly after the mother was captured, euthanized and tested for rabies. The mother tested positive, but city officials have not announced test results for the kits.</p>
+<p>"Since the mother tested positive for the rabies virus and the kits could have been exposed during grooming or other means, they were no longer able to be safely rehabilitated," D.C. Health said.</p>
+<p></p>
+<p>
+      DC Animal Control "captured" a rogue fox hounding lawmakers and other visitors to Capitol Hill this week.
+      </p>
+<p>Health officials recommend that anyone who sees an animal behaving aggressively or that appears sick or injured should call Animal Control at 202-723-5730.</p>
+<p>"D.C. Health will not be doing a roundup of healthy foxes in the area and only intervenes to remove wildlife if they are sick or injured or where an exposure to humans has occurred and rabies testing would be warranted," the spokesperson said. "D.C. Health encourages anyone who came into physical contact with the fox to call D.C. Health at 202-442-9143."</p>
+<p></p>
+<p>One of the lawmakers confirmed to be bitten was Democratic California Rep. Ami Bera. Bera was bitten Tuesday morning, but announced Wednesday on Twitter that he feeling just fine.</p>
+<p> The fox also nipped the heals of Politico reporter Ximena Bustillo, who swatted it away with a backpack. Authorities captured the animal soon afterward.</p>
+<p>Send tips to Anders.Hagstrom@Fox.com, or on Twitter: @Hagstrom_Anders</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/capitol-fox-kits-euthanized-rabies-dc"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="307"\> 

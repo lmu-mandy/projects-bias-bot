@@ -1,0 +1,17 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Nicholas Rossi: Man wanted in US on rape charge told to get lawyer</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">A man at the centre of an American extradition case found allegedly hiding in Scotland has been told to appoint a lawyer to defend his case "with haste".</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The accused claims to be Arthur Knight, a victim of mistaken identity who says he has never been to the United States.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">But US prosecutors believe he is Nicholas Rossi and want him returned to Utah to face a rape charge. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">They say he fled to Scotland after faking his own death. He was arrested at a hospital in Glasgow in December.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">He has been on bail since.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The man told a preliminary hearing at Edinburgh Sheriff Court his name was Arthur Knight. The court heard the man's identity remains in dispute.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Defence lawyer Anna Kocela said she had not formally instructed solicitors about his case.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">But the accused, who arrived in a wheelchair and was wearing an oxygen mask in court, claimed he had.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">When Ms Kocela confirmed a second time that her firm had not been given information about the case, Sheriff Nigel Ross urged the accused to contact a lawyer before proceedings can continue.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">He gave him a deadline of two weeks.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The man attempted several times during the hearing to ask for an extension, but this was denied.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Sheriff Ross had to ask him to stop interrupting during the hearing.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">He told him: "Make sure with haste you have a discussion with whichever lawyer you wish to instruct and have them come and address the court in two weeks' time."</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/uk-scotland-61031326"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="4"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="438"\> 
