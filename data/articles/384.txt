@@ -1,7 +1,0 @@
-<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Ukraine war: President Zelensky invites Elon Musk to visit</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
-<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Ukraine's President Zelensky has invited Elon Musk to visit the country, when the war with Russia is over.</p>
-<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Mr Zelensky was on a video call thanking the tech entrepreneur for supplying Starlink equipment to the country, which could secure internet access if infrastructure was damaged by the invasion.</p>
-</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-europe-60637841"\> 
-<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
-<input type="hidden" id="batch" name="batch" value="1"\> 
-<input type="hidden" id="articleNumber" name="articleNumber" value="384"\> 

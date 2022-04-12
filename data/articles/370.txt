@@ -1,6 +1,0 @@
-<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Biden says the US will ban all Russian energy imports</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
-<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">US President Joe Biden has announced a ban on all Russian oil and gas imports. The US will release 60 million barrels of oil from reserves to avoid an energy shortage.</p>
-</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60635930"\> 
-<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
-<input type="hidden" id="batch" name="batch" value="1"\> 
-<input type="hidden" id="articleNumber" name="articleNumber" value="370"\> 

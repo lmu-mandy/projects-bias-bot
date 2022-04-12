@@ -1,6 +1,0 @@
-<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Iowa tornadoes: Seven people killed, including two children</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
-<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">At least seven people are dead after three tornadoes tore through central Iowa, including two children and a family of four. The most powerful tornado generated wind gusts of up to 138 mph (222kph) and left over 50 houses damaged and destroyed.</p>
-</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60655723"\> 
-<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
-<input type="hidden" id="batch" name="batch" value="1"\> 
-<input type="hidden" id="articleNumber" name="articleNumber" value="143"\> 
