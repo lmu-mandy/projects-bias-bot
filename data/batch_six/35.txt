@@ -1,0 +1,14 @@
+<div><h1 class="headline">Maryland senior citizen assaulted by four suspects during attempted carjacking</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A Maryland women suffered two broken bones after four suspects, who were caught on camera assaulting her, attempted to steal her car in Prince George's County. </p>
+<p class="speakable">The incident took place on March 29, when the four suspects approached the victim during her return home from running errands, according to Fox 5 Washington DC. They pushed the victim to the ground, looked through her pockets, stole her keys and ripped her purse from her hands.</p>
+<p>The victim repeatedly cries out for help, but there was no one to come to her rescue.</p>
+<p></p>
+<p>As she attempted to run to a neighbor's home for help, she was tackled by one of the suspects, leaving her with two broken bones. </p>
+<p>Police are now asking for the public's help to identify the four suspects.</p>
+<p></p>
+<p>"The shameless act of violence is very sick and disturbing to me and everyone who has watched the video,"said Prince George's County Police Chief Malik Aziz in a statement. "Our seniors deserve to be treated with dignity and respect and not be violently accosted in our neighborhoods where we live peacefully. We need our community’s help in arresting these suspects so that they may be brought to justice and held accountable for their senseless act of violence. We are asking the community to look at this video and the pictures of the suspects and call us with information."</p>
+<p>In 2022, 132 carjackings have been reported in Prince George's County, which resulted in 54 total arrests, according to WUSA9. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/maryland-senior-citizen-assaulted-suspects-attempted-car-jacking"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="35"\> 

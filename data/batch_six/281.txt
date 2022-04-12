@@ -1,0 +1,9 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">'We will continue to fight,' vows Amir Locke's mother</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Karen Wells, Amir Locke's mother, said she was angered by the prosecutors' decision not to pursue criminal charges against a Minneapolis officer who fatally shoot 22-year-old Amir Locke in a no-knock raid in February. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"I am angry. I am mad. I am disgusted with Minneapolis, Minnesota," Ms Wells said. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Amir Locke was shot while he was sleeping on a couch as the police entered the property with a no-knock warrant.  Locke was not the target of the warrant and was holding a gun for which he had a permit.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">His death sparked protests in downtown Minneapolis and drew comparisons to the death of Breonna Taylor, who was shot dead by the police in Kentucky during a no-knock raid.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-61018815"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="281"\> 

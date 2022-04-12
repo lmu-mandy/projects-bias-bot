@@ -1,0 +1,14 @@
+<div><h1 class="headline">Driver on highway in Philadelphia dies after tire crashes through windshield</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A man died early Friday morning after the Pennsylvania State Police reportedly said he was struck by a loose tire on Interstate 95 in Philadelphia. </p>
+<p class="speakable"></p>
+<p>The incident occurred just after 12:30 a.m. ET in the southbound lanes of the highway between Broad and Front streets. </p>
+<p>According to FOX 29, police say a tire came off of a pickup truck driving in the northbound lane, went over the median and entered the southbound lanes. </p>
+<p></p>
+<p>The tire went through the Toyota Corolla's front windshield, striking the driver.</p>
+<p>The man was transported to Thomas Jefferson University Hospital, where he later died. </p>
+<p></p>
+<p>The crash was cleared before the morning commute.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/driver-highway-philadelphia-dies-tire-crashes-windshield"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="197"\> 

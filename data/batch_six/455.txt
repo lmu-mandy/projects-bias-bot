@@ -1,0 +1,10 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">The handshake in space that brought hope to the world</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Despite their long-standing differences during the Cold War, in 1975 the US and USSR embarked on a joint mission into space.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The aim of the operation was to dock an American Apollo space capsule with a Soyuz one made by the Soviet Union.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The collaboration took place at a time when it looked like diplomatic relations between the two sides were starting to improve.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Millions of people watched a live feed of the rendezvous as it happened 200km above the earth.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">Written and produced by Nick Holland.</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/stories-60931660"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="455"\> 

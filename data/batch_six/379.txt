@@ -1,0 +1,16 @@
+<div><h1 class="headline">Universal Studios Hollywood guests rescued from ride after power goes out</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Nearly a dozen Universal Studios Hollywood guests had to be rescued Thursday after they became stuck on a ride when the power at the park went out briefly as temperatures soared across Southern California. </p>
+<p class="speakable">The 11 people were on Transformers: The Ride 3D, an indoor virtual dark ride, when the power went down, according to FOX 11 in Los Angeles. </p>
+<p>
+      The main entrance to the Universal Studios Hollywood theme park stands in Hollywood, California, U.S., on Thursday, Aug. 15, 2013. 
+      </p>
+<p></p>
+<p>"As a result of a power interruption from So Cal Edison, we experienced a brief power dip which resulted in exiting guests from some attractions," a Universal Studios Hollywood spokesperson said, Deadline reported. Power has been fully restored and we’re working to get a few remaining attractions back online. The theme park remains open," a spokesperson for Universal Studios Hollywood said.</p>
+<p>
+      Visitors enter "Transformers: The Ride-3D" at the Universal Studios Hollywood theme park in Hollywood, California, U.S., on Thursday, Aug. 15, 2013. 
+      </p>
+<p>All of the riders were rescued by 6 p.m. PT and no injuries were reported, according to Deadline and FOX 11. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/universal-studios-hollywood-guests-rescued-from-ride-after-power-goes-out"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="379"\> 

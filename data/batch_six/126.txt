@@ -1,0 +1,25 @@
+<div><h1 class="headline">New York City pedestrian killed in accident involving NYPD van, police say</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">An NYPD van struck and killed a pedestrian in Brooklyn Thursday night, according to authorities.</p>
+<p class="speakable">It happened just after 8 p.m. at the intersection of Eastern Parkway and Schenectady Avenue.</p>
+<p>Police said a marked van collided with an unidentified adult male.</p>
+<p>
+      An NYPD van struck and killed a pedestrian in Brooklyn Thursday night, police have confirmed.
+      </p>
+<p></p>
+<p>Emergency responders rushed him to the nearby Kings County Hospital, where he was pronounced deceased, according to the NYPD.</p>
+<p>Police said they had no reports that anyone else was injured in the incident. The investigation was ongoing, and they noted that the details were preliminary. </p>
+<p>
+      NYPD
+      </p>
+<p>Several videos shared to the Citizen App showed police tape, fire trucks, numerous police vehicles and an ambulance at the scene with flashing lights.</p>
+<p>One showed a police van stopped on the median and several people standing in front. It was not immediately clear whether that had been the one involved in the crash.</p>
+<p></p>
+<p>In the same video, a group of unseen people can be overheard discussing the incident.</p>
+<p>"You heard it right?" a man asks.</p>
+<p>A woman replies that she had just come off the subway and "saw the f---ing shoes flew off."</p>
+<p><i>This is a developing story.</i></p>
+<p>Michael Ruiz is a reporter for Fox News Digital. Story tips can be sent to michael.ruiz@fox.com and on Twitter: @mikerreports</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/new-york-city-pedestrian-killed-nypd-van"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="126"\> 

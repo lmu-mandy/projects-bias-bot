@@ -1,0 +1,11 @@
+<div><h1 class="pg-headline">Three South Bronx High School students shot, one dead after shooting near school</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>One South Bronx High School student is dead and two others injured after a shooting near the school Friday afternoon, the New York Police Department confirmed to CNN.</p>
+<div class="zn-body__paragraph">A 16-year-old girl died after she was shot in the torso, police said, and a 17-year-old boy was shot in the buttocks and taken to a local hospital. Another 16-year-old girl was shot in the leg and is being treated at the hospital, police said.</div>
+<div class="zn-body__paragraph">The shooting took place near 510 East 156th Street and police are expected to hold a news conference soon to provide more details on the incident.</div>
+<div class="zn-body__paragraph">The press secretary for Mayor Eric Adams tweeted that the mayor has been briefed on the shooting.</div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph"><em>This is a developing story and will be updated.</em></div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/08/us/south-bronx-high-school-shooting/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="22"\> 

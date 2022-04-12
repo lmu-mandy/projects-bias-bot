@@ -1,0 +1,17 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Axiom-1: First all-private crew launches to space station</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">Four astronauts have left Earth on the first all-private mission to the International Space Station (ISS).</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The four men are called the Axiom-1 crew. Axiom is a commercial spaceflight company that hopes to build its own space station in the next few years.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The crew lifted away from Florida's Kennedy Space Center on a SpaceX Falcon rocket at 11:17 local time (15:17 GMT).</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Their capsule, known as Endeavour, is expected to dock at the station on Saturday.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A former US space agency (Nasa) astronaut, Michael López-Alegría, is commanding the mission. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Flying alongside him are US real estate entrepreneur and aerobatic pilot Larry Connor; Israeli investor and philanthropist Eytan Stibbe; and Canadian entrepreneur, investor and philanthropist Mark Pathy.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">They'll get to spend eight days aboard the ISS, conducting scientific research and a number of outreach projects.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The Axiom Space company was founded in 2016 to exploit the emerging market for commercial activities in low Earth orbit (LEO) - everything from tourism to manufacturing. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The firm is planning a series of similar missions to the ISS. The next one, Axiom-2, will take place either later this year or in early 2023. This will include a crew member chosen through a reality TV series.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The company has an agreement with Nasa to add its own modules to the American segment of the ISS. The idea eventually is that these modules will bud off on their own to become a fully private LEO destination just before the ISS is retired. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">While Russia allowed private astronaut endeavours to visit the 23-year-old station as far back as 2001, Nasa resisted the practice - until announcing a change in policy in 2019 designed to boost commercial opportunities. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The agency is charging Axiom for accommodation and daily resources at the ISS. On the other hand, Nasa is purchasing from Axiom the capability to return certain scientific samples back to Earth when the company's crew departs.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Friday's launch is the second private spaceflight facilitated by American rocket and capsule supplier SpaceX. Last year it sent up a mission called Inspiration-4. This was purchased by billionaire Jared Isaacman. He and his three crewmates circled the Earth at an altitude much higher than the station for almost three days.  </p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/science-environment-61044759"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="53"\> 

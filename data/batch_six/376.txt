@@ -1,0 +1,24 @@
+<div><h1 class="headline">NYC shooting outside Bronx school kills teen, injures two others</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A shooting near a New York City school killed one 16-year-old girl and injured another girl and teenage boy who were caught in the middle of a dispute as they were possibly walking home, authorities said Friday.</p>
+<p class="speakable">The gunfire erupted just before 1:45 p.m. at the corner of East 156th Street and St Ann's Avenue outside University Heights Secondary School in the Bronx, the New York Police Department said. </p>
+<p>One suspect was standing on a corner "gesturing" to someone on an opposite corner, police said. After some back-and-forth, the suspect pulled out a firearm and opened fire, authorities said.  </p>
+<p>The three victims were walking on the street and were struck by gunfire. </p>
+<p>The girls, both, 16, were both struck – one in the chest and the other in the leg. The one hit in the torso has died, the NYPD told Fox News Digital.</p>
+<p></p>
+<p><span>The scene where a teenage girl was killed Friday and two other teens were injured by gunfire in New York City.</span> <span>(WNYW)</span></p>
+<p><span>The scene where a teenage girl was killed Friday and two other teens were injured by gunfire in New York City.</span> <span>(WNYW)</span></p>
+<p><span>Markers note shell casings on the ground in the Bronx, New York where a teenage girl was shot and killed Friday and two other teens were injured.</span> <span>(WNYW)</span></p>
+<p>The surviving girl is in stable condition. A 17-year-old male was shot in the rear and expected to survive. </p>
+<p></p>
+<p>It has not been determined if they were students at the school, police said. No arrests have been made and investigators do not have an identity of the shooter, officials said. </p>
+<p>During a short news briefing at the crime scene, NYPD Commissioner Keechant Sewell said detectives "will work tirelessly to bring those responsible for this to justice."</p>
+<p>Crime in the city has soared since the middle of the COVID-9 pandemic. In the first three months of 2022, crime overall jumped 44% compared to the same time frame in 202, according to NYPD data. </p>
+<p>The number of children injured by gunfire in New York City has nearly doubled this year. As of March 15, 24 children were shot year-to-date, compared to the 13 reported during the same period in 2021. </p>
+<p>However, child murder victims as of the same time frame were down.</p>
+<p></p>
+<p><i>Fox News' Stephanie Pagones contributed to this report. </i></p>
+<p><i>Louis Casiano is a reporter for Fox News Digital. Story tips can be sent to </i><i>louis.casiano@fox.com</i><i>.</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/nyc-shooting-outside-bronx-school-kills-teen-injures-two-others"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="376"\> 

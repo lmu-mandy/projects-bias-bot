@@ -1,0 +1,30 @@
+<div><h1 class="headline">Midwestern storm will bring rainy weather, snow across Great Lakes, Northeast</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">A stubborn storm system spinning across the upper Midwest will bring ongoing rain and snow across the Great Lakes and the Northeast this weekend.  </p>
+<p class="speakable"></p>
+<p>Much cooler temperatures will continue for the region.</p>
+<p>
+      Friday fire weather outlook 
+      </p>
+<p>Record-high heat is still happening over California and parts of the Southwest. </p>
+<p>
+      Friday fire weather alerts
+      </p>
+<p>The fire danger will be critical for areas stretching from the Plains to the lower Mississippi Valley.  </p>
+<p>
+      Friday potential western record-high temperatures
+      </p>
+<p>Meanwhile, the Northwest will be active, with another round of coastal rain and mountain snow.</p>
+<p>
+      Early week severe setup
+      </p>
+<p>Next week we will be watching a very dynamic storm that will bring blizzard conditions to the Plains and severe weather once again for areas across the South.  </p>
+<p>
+      U.S. futuretrack
+      </p>
+<p></p>
+<p>Stay tuned for all the latest details. </p>
+<p>Janice Dean joined FOX News Channel (FNC) in January 2004 where she currently serves as senior meteorologist for the network. In addition, she is the morning meteorologist for FNC’s signature morning show, <i>FOX &amp; Friends</i> (weekdays 6-9AM/ET) as well as contributes to FOX Weather, FOX News Media’s free ad-supported streaming television ("FAST") weather service.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/midwestern-storm-rainy-weather-snow-great-lakes-northeast"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="318"\> 

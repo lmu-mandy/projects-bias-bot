@@ -1,0 +1,18 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Biting 'unruly passengers' hit with largest-ever US fines</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">Two airline passengers accused of "unruly behaviour" have been hit with the largest fines ever proposed by the US Federal Aviation Administration.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The five-figure penalties on the two flyers accused of violence are part of $2m (£1.5m) in fines levied this year. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">US airlines have seen record numbers of disruptive passengers since early 2021, with many incidents involving the refusal to wear an anti-viral facemask. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The fines were announced by transport secretary Pete Buttigieg on Friday.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"If you are on an airplane, don't be a jerk and don't endanger the flight crews and fellow passengers," he said in an appearance on ABC's The View. "If you do, you will be fined by the FAA." </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In one incident, an American Airlines passenger traveling from Texas to North Carolina has been asked to pay a $81,950 (£63,000) fine for threatening to hurt a flight attendant. The attendant had offered to help the passenger after she fell into the aisle of the plane. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The unnamed passenger then allegedly pushed an airline worker and tried to open the cabin door. While flight attendants attempted to restrain her, she repeatedly hit one staff member in the head. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">When she was placed in cuffs, "she spit at, headbutted, bit and tried to kick the crew and other passengers," the FAA said in a news release.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In the other incident, the passenger was flying on Delta Air Lines from Las Vegas to Atlanta. She allegedly tried to "hug and kiss the passenger seated next to her, walked to the front of the aircraft to try to exit during flight; refused to return to her seat; and bit another passenger multiple times".</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">That passenger, who is also unnamed, was physically restrained by crew members and has now been asked to pay a fine of $77,272 (£59,000).</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Neither incident involved a failure to adhere to Covid measures. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In his interview with The View, Mr Buttigieg said the US would decide by 18 April on whether to extend the federal requirement to wear masks on planes and in airports. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The FAA announced a "zero-tolerance" policy on unruly passengers in January 2021, and has issued some $7m (£5.3m) in fines since then. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">They have recorded 7,060 air rage incidents and say around 70% involved masking rules. But the rate of incidents has now declined by 60% since its high last year. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-61047164"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="6"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="127"\> 
