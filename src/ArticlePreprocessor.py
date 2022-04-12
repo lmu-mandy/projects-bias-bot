@@ -1,16 +1,22 @@
 from bs4 import BeautifulSoup
+import pandas as pd
+import numpy as np
 import os
 
 class ArticlePreprocessor:
-    ARTICLE_PATHS = ['../data/batch_one', '../data/batch_two', '../data/batch_three', '../data/batch_four', '../data/batch_six', '../data/batch_seven']
-    SAMPLE_PATHS = []
-    WRITE_PATH = "../data"
+    ARTICLE_PATHS = ['../data/raw_articles/batch_one', '../data/raw_articles/batch_two', '../data//raw_articles/batch_three', '../data//raw_articles/batch_four', '../data/raw_articles/batch_six', '../data/raw_articles/batch_seven']
+    SAMPLE_PATHS = ['../data/samples/sample_1.csv', '../data/samples/sample_2.csv', '../data/samples/sample_3.csv', '../data/samples/sample_4.csv',
+                    '../data/samples/sample_4.csv', '../data/samples/sample_5.csv', '../data/samples/sample_6.csv', '../data/samples/sample_7.csv', 
+                    '../data/samples/sample_8.csv', '../data/samples/sample_9.csv'
+                    ]
+    WRITE_PATH = "../data/preprocessed"
     def __init__(self, article_paths=ARTICLE_PATHS, sample_paths=SAMPLE_PATHS, write_path=WRITE_PATH):
         self.article_paths = article_paths
         self.sample_paths = sample_paths
         self.write_path = write_path
         self.duplicate_dict, self.article_outlets = self.remove_and_store_duplicates()
         self.file_locations = self.write_preprocessed_articles()
+        self.preprocess_samples()
 
     def remove_and_store_duplicates(self):
         duplicate_dict = {}
@@ -47,6 +53,8 @@ class ArticlePreprocessor:
     def write_preprocessed_articles(self):
         outlet_path_count = {"FOX": 0, "CNN": 0, "BBC": 0}
         file_locations = {}
+        if not os.path.exists(f"{self.write_path}"):
+            os.mkdir(f"{self.write_path}")
         for URL in self.duplicate_dict.keys():
             outlet = self.article_outlets[URL]
             new_path = f"{self.write_path}/{outlet}/{outlet_path_count[outlet]}.txt"
@@ -63,11 +71,24 @@ class ArticlePreprocessor:
                 new_file = open(new_path, "w")
                 new_file.write(article_contents)
 
-            file_locations[new_path] = URL
+            file_locations[URL] = new_path
         return file_locations
 
-    def get_preprocessed_df(self):
-        
+    def preprocess_samples(self):
+        data = pd.DataFrame()
+        for sample_path in self.sample_paths:
+            new_samples = pd.read_csv(sample_path)
+            new_samples = new_samples.dropna(subset=['Answer.url'])
+            article_location = np.empty(0)
+            for _, row in new_samples.iterrows():
+                article_location = np.append(article_location, self.file_locations[row['Answer.url']])
+
+            new_samples["Article Location"] = article_location
+            data = pd.concat([data, new_samples])
+
+        new_sample_data = data.to_csv()
+        new_sample_file = open(f"{self.write_path}/samples.csv", "w")
+        new_sample_file.write(new_sample_data)
 
 
 if __name__ == "__main__":
