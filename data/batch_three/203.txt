@@ -1,0 +1,12 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Multiple Apple services suffer outages</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">A number of Apple services experienced outages on Monday, Apple's support page has confirmed.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The areas affected included the App Store, iMessage, Maps, Apple Arcade, the iTunes store, podcasts and Apple TV+.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Apple's system status page now shows that all of its services are back up and running.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Some of Apple's network was down for three hours. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A number of iCloud services had been affected, including calendar and mail.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Apple confirmed to the BBC its systems had faced outages but has not commented on the reason for the issue. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">According to outage tracking website Downdetector.com, more than 4,000 users had reported issues with accessing Apple Music, while nearly 4,000 reported problems with iCloud.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Apple iMessage was also down for a short period.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/technology-60787301"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="203"\> 

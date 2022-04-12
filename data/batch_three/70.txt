@@ -1,0 +1,27 @@
+<div><h1 class="headline">Pennsylvania troopers killed in crash near Philadelphia ID’d, police describe investigation as ‘DUI-related’</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Two Pennsylvania state troopers, who were killed when a driver struck them along I-95 near Philadelphia early Monday while they were helping a civilian, have been identified.</p>
+<p class="speakable">Trooper Branden T. Sisca, 29, and Trooper Martin F. Mack III, 33, were struck and killed in the southbound lanes of I-95 at about 12:40 a.m., Pennsylvania State Police said. </p>
+<p></p>
+<p>The male pedestrian they were helping was also struck and killed. Police said they were withholding his identity pending the notification of his next of kin.</p>
+<p>
+      Branden T. Sisca, 29, left, and Martin F. Mack, 33, were identified as the two Pennsylvania state troopers struck and killed on I-95 near Philadelphia on early Monday.
+      </p>
+<p>"Our department is heartbroken with the tragedy that occurred early this morning in Philadelphia," said Col. Robert Evanchick. "We ask our fellow Pennsylvanians to keep the families of our troopers and the pedestrian in their thoughts. This is an extremely difficult time."</p>
+<p>Sisca and Mack were responding to reports of a man walking along the left lane on I-95 south, authorities said. As the troopers were attempting to take the man into custody and help him into the back of their cruiser, a female driver in an SUV struck all three men and the patrol car.</p>
+<p>
+      The impact of the driver striking the troopers was so great that it sent them over the median and into the northbound lanes, authorities said.
+      </p>
+<p>The force of impact was so great that it threw the troopers over into the northbound lanes of I-95, authorities said.</p>
+<p>The wrecked patrol SUV and debris scattered across the roadway were seen on footage taken by FOX29 Philadelphia.</p>
+<p>While authorities have not released the identity of the driver, they described the investigation into the crash as "DUI-related" during a press conference Monday morning. Authorities said she had remained at the scene after the crash.</p>
+<p>Martin enlisted in the Pennsylvania State Police in 2014. Sisca enlisted last February. Both troopers spent their entire careers assigned to the Patrol Section of Troop K, serving the Philadelphia area.</p>
+<p>Sisca also served as fire chief of Trappe Fire Company No. 1 in Montgomery County, FOX29 Philadelphia reported.</p>
+<p>Gov. Tom Wolf ordered flags flown at half-staff to honor Sisca and Martin.</p>
+<p>"This is a heartbreaking tragedy that occurred while these troopers were protecting and serving," the Democrat said in a written statement. "This mournful incident is a stark reminder of the risks—and sacrifices—our law enforcement officers undertake every day to keep us safe. My heart goes out to their families and the communities they lived in and served."</p>
+<p></p>
+<p>The Philadelphia Police Department also tweeted its condolences following the deaths of the troopers and civilian.</p>
+<p>"The Philadelphia Police Department extends its sincerest condolences to our brothers and sisters of the @PAStatePolice, as well the family of the civilian victim," the department tweeted. "May they rest in peace."</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/pennsylvania-troopers-killed-crash-philadelphia-identified"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="70"\> 

@@ -1,0 +1,7 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Jussie Smollett declares 'I did not do this!' after jail sentencing</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Actor Jussie Smollett stood up and loudly declared his innocence in court after being sentenced to 150 days in jail. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A jury found the former Empire star lied to the police about being the victim of a hate crime. Throughout the trial, Smollett has insisted he did not do so.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60702929"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="232"\> 

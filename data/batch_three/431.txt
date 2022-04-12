@@ -1,0 +1,11 @@
+<div><h1 class="pg-headline">1 killed and 4 wounded in Madison Heights, Virginia, shooting</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>A 21-year-old woman was killed and four other people were wounded in a shooting Saturday in Madison Heights, Virginia, according to the Amherst County sheriff. </p>
+<div class="zn-body__paragraph">The shooting happened in the 300 block of Old Wright Shop Road, Sheriff E.W. Viar Jr. told CNN on Monday. It claimed the life of T'Khira Monique Browley of nearby Lynchburg, a mother of young twin boys. </div>
+<div class="zn-body__paragraph">The four others range in age from 16 to 30, the sheriff said. A 16-year-old boy was shot in the arm, a 28-year-old man was shot in the leg, a 30-year-old man was shot in the hand and an 18-year-old woman was shot in the back, Viar said. The woman was still in hospital as of Sunday and was listed in critical but stable condition, the sheriff added.</div>
+<div class="zn-body__paragraph">No arrests have been made. The investigation is ongoing, according to the sheriff's office. Anyone with information is asked to contact authorities. </div>
+<div class="zn-body__paragraph">Browley's brother, a star high school football player, died after being shot several years ago, Viar said. Hundreds of people attended a vigil for Dre'yon Browley in 2019, CNN affiliate WSLS reported at the time. </div>
+<div class="zn-body__paragraph">Madison Heights is a community just across the James River from Lynchburg.</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Dakin Andone contributed to this report.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/21/us/madison-heights-virginia-shooting/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="431"\> 

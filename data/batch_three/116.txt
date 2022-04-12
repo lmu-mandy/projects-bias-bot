@@ -1,0 +1,45 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">How a jetpack design helped create a flying motorbike</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">At around the age of 12, David Mayman tried to build a helicopter out of fence posts and an old lawn mower.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Needless to say, it did not go well.  His contraption didn't fly and he was made to fix the fence.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"I was brought up in a way that I guess challenged me scientifically... I was always told that nothing's impossible," he says. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Perhaps he got a bit ahead of himself during his childhood in Sydney, but as an adult Mr Mayman, has built innovative machines that really do fly.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">After selling his online listings business Mr Mayman developed a jetpack, which in 2015 he flew around the Statue of Liberty.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">But, since 2018, he has been working on a different kind of project, one he thinks will have more commercial opportunities.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Called the Speeder, his new machine will be like a flying motorbike. It will take off vertically, fly at high speeds, but be compact enough to fit in the back of a pick-up truck.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Speeder is just one of many flying machine projects under way at the moment.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">There are currently hundreds of EVTOL (electric vertical take-off and landing) aircraft in development, with engineers hoping to create a new era of cheap, quiet air transportation.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">But Mr Mayman's machine is very different from those aircraft. Instead of being powered by batteries and electric engines, his Speeder uses four small jet engines, which run on aviation fuel.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">That might seem like a step backwards in technology, but for the customers Mr Mayman has in mind, only liquid fuel will do.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">He says the military, emergency services and the offshore energy industry want a fast, compact aircraft that can carry a significant weight.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">For that, you need jet fuel, as it stores 20 times the energy of batteries for a given weight. Or in other words, to supply the power needed, batteries would be too heavy.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"If you want to carry a certain payload, and you want that aircraft to have a certain range and certain speed, the only way to do that with current technology is, with turbine engines." Mr Mayman explains.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The Speeder idea emerged from work with the US Navy, who were interested in a jetpack for use by the Navy's special forces, the Seals.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"As is so often the case in aviation, you start with one set of specifications, and fairly quickly, you end up with an entirely different set of specs," he explains.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"They initially wanted something that would carry a payload of 210 pounds (95kg), not far into the project that morphed to nearly 300 pounds (135kg). And they wanted it to be possible to train somebody literally in 10 minutes," Mr Mayman says.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">None of that was possible with his existing jetpack product - something bigger and easier to fly would be needed, so the Speeder project was born.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Some of the jetpack technology was helpful on the new project, but much of it had to be developed from scratch.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">To simplify things, while on the jetpack the direction of thrust is controlled mechanically by the pilot on the Speeder the angle of the four jet turbines is controlled by an electronic flight control system.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The key part of that system is bespoke software that understands the physics of the four very powerful jets. This means that when the pilot lifts-off or turns, the Speeder can angle its jets to make that happen.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Mr Mayman says that owners will not necessarily need a pilots licence, as the Speeder's flight control systems are doing much of the work to keep the aircraft steady.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"It's effectively AI (artificial intelligence) - if you want to call it that - that understands what the vehicle is going to need... so it can start instructing the engines to be spooling up or spooling down," says Mr Mayman.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">It's that aspect of artificial intelligence that interests Sajal Kissoon, a research assistant in gas turbine technology at Cranfield University's aerospace centre.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"The important enabler for this [the Speeder] is the use of AI to assist control. This, in itself, is a very exciting advancement," she explains.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"What if the Speeder faces unusual weather conditions, or unusual wind conditions, or an unusual manoeuvre by the pilot? I think AI would be essential to assist control," Ms Kissoon adds.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">More technology of business:</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Mr Mayman is hopeful that the Speeder will eventually be used to transport cargo. Piloted by remote control, or autonomously he thinks there will be demand particularly from the armed forces or emergency services.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">With a top speed of around 200mph and a flight time up to 60 minutes, Mr Mayman says it could get essential supplies for the military, or emergency services, very quickly to where they need to be.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In cargo mode, where it is piloted remotely, it will be able to go even faster, perhaps at 500mph and carry 450kg.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Being compact and able to fly in all sorts of weather conditions, he thinks it has the potential to be more versatile than a helicopter.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">But before you get too excited at the prospect of ditching the bus and hopping on a Speeder to work, Mr Mayman says it is unlikely to fly through cities.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"We make noise, we're incredibly powerful, we're incredibly small. I don't think there's necessarily a need within the urban air mobility space for an aircraft that can be the size of your kitchen table."</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Crucially, a lot more testing still needs to be done before the Speeder is delivered to any customer. A third full-size prototype (called the P2) is being prepared for flight at test range about two hours east of Los Angeles. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">There will be enough space there for the Speeder to be put through its paces.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A key phase will also come late next year, when the company hopes to start the certification process. The company estimates that will take 12 months.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">If all goes to plan, the Speeder might be available for sale in late 2024 or 2025, although the military might be able to start flying it earlier, according to Mr Mayman.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Unsurprisingly, all of his engineers want to be the first to fly the machine out in the desert, but Mr Mayman is saving that thrill for himself.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"It's pretty much the main reason they work here. So, I have got a long queue of folks waiting to test fly this thing. But I'll be pulling rank," he says.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">And hopefully for Mr Mayman, this time he will not have to fix any fences.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">Follow Technology of Business editor Ben Morris on </i>Twitter.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/business-60333565"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="116"\> 

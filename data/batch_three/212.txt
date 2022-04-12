@@ -1,0 +1,24 @@
+<div><h1 class="headline">Severe weather coming to Texas, Southeast</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">An intense storm system developing across the Central U.S. will bring the risk of widespread severe weather this week.  </p>
+<p class="speakable">An area of low pressure coming out of the Rockies will begin to strengthen from Texas along the Gulf Coast and into the Southeast.  </p>
+<p>
+      The severe storm threat for Monday.
+      </p>
+<p>Heavy rain, large hail, damaging winds and tornadoes will all potentially affect tens of millions of people in this area.  </p>
+<p></p>
+<p>
+      Where the severe weather is heading in the coming days.
+      </p>
+<p>Tuesday and Wednesday will be the most dangerous day and residents should have a way to receive the latest storm alerts. </p>
+<p>Meanwhile, it will be cold enough for snow on the west side of this system bringing moderate to heavy totals from the Rockies into the Plains.</p>
+<p>
+      The national forecast for Monday, March 21.
+      </p>
+<p></p>
+<p>Fire weather will also be elevated for parts of western Texas. </p>
+<p>The Northwest will get another round of rain and mountain snow with warmer temperatures moving in on Tuesday. </p>
+<p>Janice Dean joined FOX News Channel (FNC) in January 2004 where she currently serves as senior meteorologist for the network. In addition, she is the morning meteorologist for FNC’s signature morning show, <i>FOX &amp; Friends</i> (weekdays 6-9AM/ET) as well as contributes to FOX Weather, FOX News Media’s free ad-supported streaming television ("FAST") weather service.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/severe-weather-coming-to-texas-southeast"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="212"\> 

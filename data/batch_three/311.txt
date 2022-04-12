@@ -1,0 +1,11 @@
+<div><h1 class="headline">In New Orleans, police probe 5 shootings within 10 hours</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Police are investigating five shootings within a 10-hour span amid a deadly surge of gun violence.</p>
+<p class="speakable"></p>
+<p>The recent spate of shootings have left three people dead, WWL-TV reported.</p>
+<p>The first shooting happened Wednesday evening, when police officers found a man dead inside a vehicle in the Central City neighborhood. Later Wednesday, a man was found lying in a street in New Orleans East and was pronounced dead of a gunshot wound. Then, shortly before dawn Thursday, a shooting on Lafron Drive left one person dead.</p>
+<p></p>
+<p>Investigators are looking for a possible motive in each killing.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/new-orleans-police-5-shootings-10-hours"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="311"\> 

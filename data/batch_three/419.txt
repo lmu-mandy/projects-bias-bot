@@ -1,0 +1,26 @@
+<div><h1 class="pg-headline">178 Texas fires have torched more than 108,000 acres in the past week. But one major fire is now under control</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>While firefighters grapple with wildfires across Texas, a bit of good news emerged Monday: the Big L Fire is now "under control," Hood County officials said.</p>
+<div class="zn-body__paragraph">"It burned more than 11,000 acres. The evacuation order for the City of Lipan has been lifted," Hood County officials tweeted Monday.</div>
+<div class="zn-body__paragraph">"Firefighters set up a line at Star Hollow Road south of Lipan and that's where they stopped it from spreading," the tweet added.</div>
+<div class="zn-body__paragraph">Hood County, located on the Edwards Plateau, is part of the Dallas-Fort Worth-Arlington metro area. Erath County, to its west, is where two of North America's largest renewable natural gas plants are located.</div>
+<div class="zn-body__paragraph">Over the past week, firefighters have been trying to protect people and homes as 178 wildfires burned more than 108,000 acres across the state, the Texas A&amp;M Forest Service said Monday.</div>
+<div class="zn-body__paragraph">Ongoing and hard- to-control wildfires affecting southwest Texas were expected to get worse Monday, according to a forest service statement.</div>
+<div class="zn-body__paragraph">Authorities said increased wildfire activity was due to "critical fire weather and high winds" detected Sunday along Interstate 35. </div>
+<div class="zn-body__paragraph">Firefighters this past week have responded to 178 wildfires that burned 108,493 acres across the state, the statement said. </div>
+<div class="zn-body__paragraph">As of Sunday, there were 23 active wildfires, Texas A&amp;M Forest Service spokesperson Erin O'Connor said. The largest was the Eastland Complex Fire ripping through central Texas.</div>
+<div class="zn-body__paragraph">The complex was a combination of four fires Saturday, according to the Texas A&amp;M Forest Service. By Sunday, three more fires had been added, totaling an estimated 54,015 acres and only 30% containment, the forest service said.</div>
+<div class="zn-body__paragraph">The seven fires in the Eastland Complex Fire include:</div>
+<div class="zn-body__paragraph"><ul class="cnn_rich_text"><li>Kidd Fire, Eastland County (42,333 acres, 40% contained)</li><li>Blowing Basin Fire, Eastland County (est. 258 acres, 50% contained)</li><li>Cedar Mountain Fire, Eastland County (est. 179 acres, 0% contained)</li><li>Oak Mott Fire, Brown County (4,031 acres, 75% contained)</li><li>Wheat Field Fire, Eastland County (7,268 acres, 55% contained)</li><li>Mangum Fire, Eastland County (est. 11 acres, 85% contained)</li><li>Walling Fire, Eastland County (383 acres, 100% contained)</li></ul></div>
+<div class="zn-body__paragraph">The four initial fires that formed the Eastland Complex Fire began Wednesday and Thursday, the forest service said. More than 140 structures are reported destroyed, fire officials said, without differentiating between homes, businesses or outbuildings.</div>
+<div class="zn-body__paragraph">On Friday, Gov. Greg Abbott said at least 50 homes across three communities had been destroyed.</div>
+<div class="zn-body__paragraph">Some relief may come Monday afternoon as the region is expected to be in the path of severe storms and could get up to two inches of rain, CNN Meteorologist Robert Shackelford said. Statewide, the severe weather could impact up to 20 million Texans throughout the afternoon and evening hours, Shackelford added.</div>
+<div class="zn-body__paragraph">Abbott directed the state's emergency management office to mobilize several units and put them on standby for rapid deployment, including two search and rescue teams and multiple swiftwater boat teams.</div>
+<div class="zn-body__paragraph">At least one person has died as a result of the flames. Eastland County Deputy Sgt. Barbara Fenley died Thursday night as she helped evacuate people in the town of Carbon, about 100 miles west of Fort Worth.</div>
+<div class="zn-body__paragraph">She was last heard from while on her way to assist an elderly person, the Eastland County Sheriff's Office said.</div>
+<div class="zn-body__paragraph">Amid deteriorating conditions and low visibility from smoke, Fenley ran off the roadway and was killed in the flames, the sheriff's office said.</div>
+<div class="zn-body__paragraph">Abbott, who on Friday issued a disaster declaration for 11 counties, including Eastland, ordered flags be flown at half-staff in Fenley's honor.</div>
+<div class="zn-body__paragraph">"We will never forget her sacrifice," the governor said.</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Claudia Dominguez, Paradise Afshar, Holly Yan and Christina Maxouris contributed to this report. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/21/us/texas-wildfires-monday/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="419"\> 

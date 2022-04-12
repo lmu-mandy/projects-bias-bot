@@ -1,0 +1,28 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">America's gun culture in charts</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">US president Joe Biden's announcement on gun control throws the spotlight once again on Americans' attitudes to firearms.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Here is a selection of charts and maps on where America stands on the right to bear arms. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">There were 14,400 gun-related homicides in 2019. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Killings involving a gun accounted for nearly three quarters of all homicides in the US in that year.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">That's a larger proportion of homicides than in Canada, Australia, England and Wales, and many other countries. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">While it is difficult to know exactly how many guns civilians own around the world, by every estimate the US, with more than 390 million, is far out in front. The latest figures from the Small Arms Survey, a Swiss-based leading research project, are for 2018.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Switzerland and Finland are two of the European countries with the most guns per person - they both have compulsory military service for all men over the age of 18. The Finnish interior ministry says about 60% of gun permits are granted for hunting - a popular pastime in Finland. Cyprus and Yemen also have military service.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Figures from the US Centers for Disease Control and Prevention show there were a total of more than 38,300 deaths from guns in 2019 - of which more than 23,900 were suicides.  </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A 2016 study published in the American Journal of Public Health found there was a strong relationship between higher levels of gun ownership in a state and higher firearm suicide rates for both men and women. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The number of mass shootings fell last year during the pandemic. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">According to investigative magazine Mother Jones, which has been tracking such incidents since 1982, there were only two in the whole of 2020. Mother Jones defines a mass shooting as three or more people shot dead. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">It does not include violent crimes like robberies or gang-related violence in its statistics.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Other figures from the Gun Violence Archive suggest mass shooting may have risen last year. It uses a broader definition of shootings including those where victims are shot and injured, as well as robberies.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The Las Vegas attack in 2017 was the worst mass shooting in recent US history - and eight of the shootings with the highest number of casualties happened within the past 10 years.  </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">US public opinion on gun laws has fluctuated over recent years.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Opinion polling by Gallup suggests that a majority of Americans would like to see the laws covering the sale of firearms made more strict.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Some states have taken steps to ban or strictly regulate ownership of assault weapons. Laws vary by state but California, for example, has banned ownership of assault weapons with limited exceptions. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Some controls are widely supported by people across the political divide - such as restricting the sale of guns to people who are mentally ill, or on "watch" lists.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The National Rifle Association (NRA) campaigns against all forms of gun control in the US and argues that more guns make the country safer. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">It is among the most powerful special interest lobby groups in the US, with a substantial budget to influence members of Congress on gun policy. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Figures from the Center for Responsive Government suggest that groups advocating stricter gun controls actually spent more than gun rights groups like the NRA in 2018.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In January 2021, the NRA filed for bankruptcy as part of a fraud case against some of its own senior staff. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The NRA said it would continue "confronting anti-Second Amendment activities, promoting firearm safety and training, and advancing public programs across the United States".</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-41488081"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="370"\> 

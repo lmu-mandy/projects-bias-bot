@@ -1,0 +1,18 @@
+<div><h1 class="headline">Over 500 workers at California Chevron refinery go on strike</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">More than 500 workers at a Chevron Corp. refinery in the San Francisco Bay area went on strike early Monday in a contract dispute.</p>
+<p class="speakable">The United Steelworkers union said in an email that the strike affecting the refinery in the city of Richmond, began at 12:01 a.m. It came after workers voted down Chevron’s most recent contract offer and that Chevron refused to return to the bargaining table.</p>
+<p></p>
+<p>Chevron said in a statement Sunday night that it has negotiated with the union for months and believes a contract offered by the company was fair and addressed union concerns.</p>
+<p>The company said that refinery operations will continue despite the strike and that it does not anticipate any supply chain issues. If the strike were to shut down the refinery, that could negatively affect gasoline prices in California — which has the highest regular gas price in the nation at $5.86 per gallon, according to the American Automobile Association.</p>
+<p>
+      A tanker truck passes the Chevron oil refinery in Richmond, California, on March 9, 2010.
+      </p>
+<p>The union said it had negotiated a national agreement for oil workers on wages and working conditions, but about 200 individual bargaining units still had to negotiate local issues.</p>
+<p>Chevron said that in Richmond, "the union’s demands exceeded what the company believes to be reasonable and moved beyond what was agreed to as part of the national pattern bargaining agreement."</p>
+<p>The old contract with Chevron in Richmond expired Feb. 1, and workers had been reporting to their jobs on a rolling 24-hour extension, the union said.</p>
+<p></p>
+<p>The San Ramon, California-based Chevron said on its website that the refinery produces gasoline, diesel and jet fuel and lubricating oils.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/california-chevron-refinery-strike"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="34"\> 

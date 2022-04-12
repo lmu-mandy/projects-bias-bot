@@ -1,0 +1,22 @@
+<div><h1 class="headline">NYC police see 29 weekend shooting victims, up 383% from 2021 while weekly number nearly doubles</h1><p>Fox News correspondent Bryan Llenas has the details from New York City on 'Special Report.'</p>
+<p class="speakable">At least 29 people were shot from Friday through Sunday in New York City – a 383% increase year over year – while the latest police department statistics show the number of shooting victims reported last week nearly doubled compared to the same time in 2021. </p>
+<p class="speakable">The New York Police Department (NYPD) reported nine people shot on Friday, 13 more on Saturday and seven on Sunday. In total, 29 people were wounded in 24 shootings throughout the weekend. And three people were murdered from Friday through Sunday, the NYPD said.</p>
+<p></p>
+<p>
+      Police investigate a shooting inside the Shepherd Avenue subway station in Brooklyn, New York City on Sunday, March 20, 2022. 
+      </p>
+<p>The number of weekend shooting victims skyrocketed 383% from the six reported from March 18 through March 20, 2021, according to figures provided by the police department. One person was murdered during the three-day period last year.</p>
+<p>The NYPD provided the weekend statistics on Monday, around the same time that the department released its latest crime numbers for last week. </p>
+<p></p>
+<p>
+      NYPD crime statistics for March 14 - March 20.
+      </p>
+<p>The data show year-over-year increases in murders, robberies, felony assaults and shootings, among other crimes, from March 14 through March 20, 2022.</p>
+<p>Nine murders were reported for the week compared to the six recorded from March 14 to March 20, 2021. And 43 people were shot, a 95.5% increase from the 22 wounded last year, the NYPD said. There were 36 shootings reported from March 14 to March 20, compared to the 19 reported during the same time in 2021.</p>
+<p></p>
+<p>Total index crime – meaning offenses that fall under one of the seven major crimes – is up 45% year to date compared to 2021. </p>
+<p>Stephanie Pagones is a Digital Reporter for FOX Business and Fox News. Story tips can be sent to stephanie.pagones@fox.com and on Twitter: @steph_pagones. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/nyc-nypd-police-weekend-shooting-victims-shot"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="51"\> 

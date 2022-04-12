@@ -1,0 +1,20 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Roman Abramovich's jet among 100 planes grounded by US</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><b class="ssrcss-hmf8ql-BoldText e5tfeyi3">Nearly 100 planes with ties to Russia have been effectively grounded by the US government, including one owned by billionaire Roman Abramovich.</b></p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The US Commerce Department has said the planes are in contravention of US sanctions on Russia.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Providing service to these aircraft anywhere in the world - including inside Russia - may lead to heavy fines and potential jail time, it says. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The list includes aircraft operated by Russian airlines, including Aeroflot. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">While most are Boeing aircraft, a Gulfstream private jet owned by Mr Abramovich - the current owner of Chelsea football club - is also included. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The Russian was among seven oligarchs sanctioned by the UK government earlier this month in response to the Ukraine war.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Mr Abramovich, 55, is alleged to have strong ties to Russian President Vladimir Putin, which he has denied.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">In a statement, the department said any refuelling, maintenance or repair work of any of the listed aircraft - as well as the provision of spare parts - violates US export controls. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Commerce Secretary Gina Raimondo said the move was in response to "Russia's brutal war of choice against Ukraine".</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">She added: "We are publishing this list to put the world on notice - we will not allow Russian and Belarusian companies and oligarchs to travel with impunity in violation of our laws." </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The department said violators face "substantial jail time, fines, loss of export privileges, or other restrictions".</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The regulations apply to any aircraft which has more than 25% US-origin content that was re-exported to Russia after new controls came into effect on 24 February, the day Russia invaded Ukraine. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"By preventing these aircraft from receiving any service, for example, including from abroad, international flights from Russia on these aircraft are effectively grounded," the statement added. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Deputy Secretary of Commerce Don Graves said the US government hoped the move highlighted Russia's increasing isolation from the global economy.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"Our actions aren't idle words or dead letters on the page," he said. "They have real teeth and as Putin's vicious war continues, they will continue to bite harder on the Russian and Belarusian economies". </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The US, Canada and European allies have already banned Russian aircraft from operating in their airspace, forcing Russian airlines to largely abandon their international routes. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60800439"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="142"\> 

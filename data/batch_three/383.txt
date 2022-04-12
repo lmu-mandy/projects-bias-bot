@@ -1,0 +1,8 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Texas is battling over 170 wildfires</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Over the past week, wildfires have burned over 100,000 acres in the US state. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Hundreds of structures, including homes and businesses, have been destroyed and hundreds of people have been forced to evacuate from their homes.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00"><i class="ssrcss-xbdn93-ItalicText e5tfeyi2">Edited by Michelle Mullen</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60829623"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="383"\> 

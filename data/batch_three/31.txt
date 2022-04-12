@@ -1,0 +1,14 @@
+<div><h1 class="pg-headline">Hatchet-wielding attacker at Canada mosque charged for possible hate-motivated attack, police say</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>The man who discharged bear spray while brandishing a hatchet at a mosque in the Canadian city of Mississauga is now facing multiple charges in connection with the incident, Peel Regional Police said in a news release Monday. </p>
+<div class="zn-body__paragraph">The incident took place Saturday around 7 a.m. local time at Dar Al-Tawheed Islamic Centre during the dawn prayer of Fajr, police said. The mosque said in a Facebook post the man who walked in was also armed with "numerous other sharp edged weapons."</div>
+<div class="zn-body__paragraph">"Before he could inflict harm on any (worshipers), several congregants bravely were able to stop him," the Dar Al-Tawheed Islamic Centre post said.</div>
+<div class="zn-body__paragraph">Worshipers sustained minor injuries from the bear spray, police said.</div>
+<div class="zn-body__paragraph">Mohammad Moiz Omar, a 24-year-old Mississauga resident, was arrested in connection with the incident. He is facing six charges for what is "believed to be a hate-motivated incident," the Peel Regional Police news release said. </div>
+<div class="zn-body__paragraph">The charges include assault with a weapon; administering noxious substance with intent to endanger life or cause bodily harm; possession of a weapon for a dangerous purpose; utter threat to cause death or bodily harm; carrying concealed weapon; and mischief to religious property, according to the release.</div>
+<div class="zn-body__paragraph">Omar had a bail hearing in front of the Ontario Court of Justice in Brampton on Saturday.</div>
+<div class="zn-body__paragraph">"Violence of any kind is unacceptable in our community and we are taking this matter extremely seriously," said Superintendent Rob Higgs, commander of 12 Division in the release. "This is an ongoing investigation led by 12 Division Criminal Investigations Bureau and we will continue to work closely with our community partners as our Diversity, Equity and Inclusion and Divisional Mobilization Officers continue to engage with faith leaders and community members." </div>
+<div class="zn-body__paragraph">Mississauga is about 15 miles southwest of Toronto in the province of Ontario.</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Justin Lear, Rebekah Riess and Ray Sanchez contributed to this report. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/03/21/americas/mississauga-canada-mosque-attack-charges/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="31"\> 

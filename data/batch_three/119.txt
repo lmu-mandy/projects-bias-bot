@@ -1,0 +1,14 @@
+<div><h1 class="ssrcss-15xko80-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">US Marines identify four dead in Norway plane crash</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The US Marine Corps has identified its four members killed in a plane crash during Nato military exercises in Norway last week.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Captain Matthew Tomkiewicz, 27, Capt. Ross Reynolds, 27, Gunnery Sgt. James Speedy, 30, and Cpl. Jacob Moore, 24, died on Friday, the Marines said.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">All four were aboard an Osprey aircraft that crashed in bad weather.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"These Marines were simply doing what they loved," their commanding general said on Facebook.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">"We honour them by taking to the skies again with their memory in our hearts, with nerves of steel, and ready to answer our great Nation's call," Major General Michael Cederholm wrote.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The fallen Marines were participating in Cold Response, a Norwegian-led military exercise that involves over 30,000 soldiers from 27 different countries.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The aircraft was supposed to make a landing at 18:00 GMT on Friday but was reported missing by Norwegian authorities amid bad weather conditions.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Local police in Nordland County confirmed on Saturday morning that the crew had been killed in the accident.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">The downed MV-22B Osprey was later discovered near the town of Bodø and the bodies of the four crew members were retrieved via Royal Norwegian Air Force helicopter.</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">It is the first time an Osprey has crashed in five years.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-60818242"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="3"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="119"\> 
