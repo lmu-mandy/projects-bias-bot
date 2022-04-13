@@ -1,0 +1,23 @@
+<div><h1 class="headline">Philadelphia reimposes indoor mask mandate in response to rising omicron BA.2 cases</h1><p>Former CDC Director Dr. Robert Redfield weighs in after Dr. Fauci said COVID-19 will not be eradicated and individuals will have to decide their own level of risk going forward. </p>
+<p class="speakable">Philadelphia health officials announced Monday that they are reimposing the indoor mask mandate in response to an increase in cases driven by the omicron BA.2 subvariant. </p>
+<p class="speakable">"Recently we've been watching COVID-19 cases and hospitalizations rise in several European countries and some places in the US, and now were starting to see cases here in Philadelphia rise," Philadelphia Health Commissioner Dr. Cheryl Bettigole said at a press briefing on Monday afternoon. "We're reintroducing the mask mandate in Philadelphia."</p>
+<p>Philadelphia appears to be the first major city to reimpose an indoor mask mandate after local governments and states across the country lifted them earlier this year in response to plummeting cases. </p>
+<p>
+      A shopper waring a proactive mask as a precaution against the spread of the coronavirus selects fruit at the Reading Terminal Market in Philadelphia, Wednesday, Feb. 16, 2022.
+      </p>
+<p>The city entered tier 2 of its COVID-19 response system, which means Philadelphia has hit two of three requirements between 100-225 new cases per day, a 50% increase in cases over the previous 10 days, and hospitalization between 50-100. </p>
+<p></p>
+<p>If new cases hit between 225 and 500 per day, then the city will reimpose the requirement that residents show a vaccine card or negative COVID-19 test before entering bars and restaurants. </p>
+<p>"Our city remains open; we can still go about our daily lives and visit the people and places we love while masking in indoor public spaces," Philadelphia Mayor Jim Kenney tweeted Monday. </p>
+<p>The new mask mandate will go into effect next Monday after "a one-week education period for businesses." </p>
+<p><span>A pedestrian removes a protective mask worn as a precaution against the spread of the coronavirus in Philadelphia, Wednesday, March 2, 2022. </span> <span>(AP Photo/Matt Rourke)</span></p>
+<p><span>People wait in a line extending around the block to receive free at-home rapid COVID-19 test kits in Philadelphia on Monday.</span> <span>(AP/Matt Rourke)</span></p>
+<p>The 7-day average for new COVID-19 cases has been around 26,000 nationwide since mid-March after dropping sharply in January and February from an all-time high of 806,739 on January 15, according to CDC data. </p>
+<p></p>
+<p>President Biden touted the end of mask mandates during his State of the Union address last month. </p>
+<p>"Most Americans in most of the country can now be mask free.  And based on the projections, more of the country will reach that point across the next couple of weeks," Biden said on March 1. "Thanks to the progress we have made this past year, COVID-19 need no longer control our lives."</p>
+<p>Paul Best is a reporter for Fox News Digital. Story tips can be sent to Paul.best@fox.com and on Twitter: @KincaidBest. </p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/philadelphia-reimposes-indoor-mask-mandate-rising-omicron-ba-2"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="8"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="302"\> 

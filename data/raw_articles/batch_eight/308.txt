@@ -1,0 +1,18 @@
+<div><h1 class="headline">NC medical school backs student who suggested she harmed patient for mocking pronoun pin</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Wake Forest University Medical School is standing by a student who suggested she intentionally harmed one of her patients for disagreeing with her about transgender ideology.</p>
+<p class="speakable">The student, fourth-year Kychelle Del Rosario, came under fire after appearing to boast about the incident on Twitter in late March. The university responded with a brief suspension but announced no further consequences in its latest statement.</p>
+<p>Del Rosario tweeted: "I had a patient I was doing a blood draw on see my pronoun pin and loudly laugh to the staff ‘She/Her? Well of course it is! What other pronouns even are there?’ I missed his vein so he had to get stuck twice."</p>
+<p>The university publicly responded to the incident in a statement on Wednesday, saying Del Rosario's tweet was not an accurate recounting of the incident.</p>
+<p>"Our documentation verifies that after the student physician was unsuccessful in obtaining the blood draw, the student appropriately deferred a second attempt to one of our certified professionals. The student did not attempt to draw blood again," the school wrote.</p>
+<p></p>
+<p>The university's statement included a lengthy apology letter from Del Rosario, in which she claims she never intended to harm the individual, blaming the missed vein on inexperience.</p>
+<p>"For the event mentioned in the tweet, I was performing a blood draw on a patient and during our conversation they had shown dismay at my pronoun pin," Del Rosario wrote, according to the university newspaper. "I calmly shared my thoughts about pronouns and did not escalate the situation further. When I was doing the blood draw, I missed the first time due to my inexperience as a student, and per our policy, my supervisor performed the successful blood draw the second time. During this encounter, I never intended to harm the patient."</p>
+<p>"I am truly sorry for poorly representing our school and our health system. I will reflect on responsible social media use as a professional and my duty to care for all my patients, regardless of any differences of belief," she concluded.</p>
+<p></p>
+<p>While Del Rosario's actions led to heavy criticism on social media, many of her fellow Wake Forest students jumped to defend her. One op-ed published in the school's newspaper was titled "Criticism of Wake Forest medical student is excessive."</p>
+<p>"The crux of the issue at hand is not the conduct of Del Rosario, but the bigotry expressed by her patient," claimed the author, opinions editor and sophomore Sophie Guymon. "It is appalling that the vast majority of the media coverage surrounding Del Rosario’s tweet is critiquing her lack of professionalism rather than her patient’s display of bigotry."</p>
+<p>Send tips to Anders.Hagstrom@Fox.com, or on Twitter: @Hagstrom_Anders</p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/wake-forest-medical-school-del-rosario-pronoun-patient-twitter"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="8"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="308"\> 

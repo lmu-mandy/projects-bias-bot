@@ -1,0 +1,17 @@
+<div><h1 class="headline">Alabama governor signs law banning puberty blockers, gender transition surgeries</h1><p>Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.</p>
+<p class="speakable">Alabama Gov. Kay Ivey on Friday signed legislation to outlaw puberty blocking medications for minors.</p>
+<p class="speakable">The bill makes it a felony, punishable by up to 10 years in prison, to prescribe puberty blockers or hormones to transgender people under age 19 to help in their gender transition. </p>
+<p></p>
+<p>The bill also prohibits gender transition surgeries, although doctors told lawmakers those are generally not done on minors.</p>
+<p>
+      Alabama Gov. Kay Ivey on Friday signed legislation to outlaw gender-affirming medications for transgender youths.
+      </p>
+<p>Ivey signed the legislation a day after state lawmakers passed the bill. Groups have vowed to challenge the law in court. </p>
+<p>Alabama is the second state to try to impose a ban on gender-affirming care for minors and the first to impose criminal penalties.  A similar measure in Arkansas, which would have banned doctors from prescribing the medications, was blocked by a federal judge.</p>
+<p></p>
+<p>Ivey also signed legislation prohibiting certain elementary school teachers from discussing gender identity and sexual orientation matters in school.</p>
+<p><i>The Associated Press contributed to this report.</i></p>
+</div><input type="hidden" id="url" name="url" value="https://www.foxnews.com/us/alabama-governor-signs-law-banning-trans-youth-medication"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="FOX"\> 
+<input type="hidden" id="batch" name="batch" value="8"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="159"\> 

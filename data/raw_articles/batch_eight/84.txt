@@ -1,0 +1,10 @@
+<div><h1 class="ssrcss-1qr3f1s-StyledHeading e1fj1fc10" id="main-heading" tabindex="-1">Who is this future pop megastar on archive TV reel?</h1><p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">This video can not be played</p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A local TV station's production manager stumbled upon an archive interview with this future rock god from a teachers' strike 50 years ago. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">Born and raised in Minneapolis, the budding superstar was attending Lincoln Junior High school in April 1970. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">He did an interview about the walkout with CBS local station WCCO, and the old footage was unearthed by a TV production manager. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">A flabbergasted childhood friend has confirmed the boy's identity. </p>
+<p class="ssrcss-1q0x1qg-Paragraph eq5iqo00">But can you guess who it is?</p>
+</div><input type="hidden" id="url" name="url" value="https://www.bbc.co.uk/news/world-us-canada-61005427"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="BBC"\> 
+<input type="hidden" id="batch" name="batch" value="8"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="84"\> 

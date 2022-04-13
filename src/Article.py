@@ -2,6 +2,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import re
+from bs4 import BeautifulSoup
 
 def remove_html_tags(text):
     """Remove html tags from a string"""
@@ -32,21 +33,13 @@ def get_headline(source, text):
 	return headline, text
 
 class Article:
-	def __init__(self,text, source, article_num, label, party):
+	def __init__(self, text):
+		self.text = text
+		self.source = self.extract_source()
 
-		text = text.lower()
-
-		self.headline, text = get_headline(source, text)
+		self.headline, text = get_headline(self.source, self.text.lower())
 		self.headline = self.process_text(self.headline)
-		self.text = self.process_text(text)
-		self.source = source	
-		self.number = article_num
-		self.party = party
-
-		if label == 'is-biased':
-			self.label = "Is Biased"
-		else:
-			self.label = "Is Not Biased"
+		self.text = self.process_text(text.lower())
 
 	def process_text(self,text):
 
@@ -64,3 +57,11 @@ class Article:
 		text_tokens = word_tokenize(text)
 		tokens_without_sw = [word for word in text_tokens if not word in stopwords.words()]
 		return tokens_without_sw
+
+	def extract_source(self):
+		article_soup = BeautifulSoup(self.text, features="html.parser")
+		try:
+			return article_soup.find("input", {"id": "newsOutlet"}).get('value')
+		except Exception:
+			print(f"Could not find outlet for article {self.location}")
+			return ""

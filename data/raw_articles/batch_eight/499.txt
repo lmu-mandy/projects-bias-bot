@@ -1,0 +1,22 @@
+<div><h1 class="pg-headline">Russia has defaulted on its foreign debt, says S&amp;P</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source">London (CNN Business)</cite>Russia has defaulted on its foreign<strong> </strong>debt because it offered bondholders payments in rubles, not dollars, credit ratings agency S&amp;P has said. </p>
+<div class="zn-body__paragraph">Russia attempted to pay in rubles for two dollar-denominated bonds that matured on April 4, S&amp;P said in a note on Friday. The agency said this amounted to a "selective default" because investors are unlikely to be able to convert the rubles into "dollars equivalent to the originally due amounts."</div>
+<div class="zn-body__paragraph">According to S&amp;P, a selective default is declared when an entity has defaulted on a specific obligation but not its entire debt.</div>
+<div class="zn-body__paragraph">Moscow has a grace period of 30 days from April 4 to make the payments of capital and interest, but S&amp;P said it does not expect it will convert them into dollars given Western sanctions that undermine its "willingness and technical abilities to honor the terms and conditions" of its<strong> </strong>obligations. </div>
+<div class="zn-body__paragraph">A full foreign currency default would be Russia's first in more than a century, when Bolshevik leader Vladimir Lenin repudiated bonds issued by the Tsarist government. </div>
+<div class="zn-body__paragraph">Russia cannot access roughly $315 billion of its foreign currency reserves as a result of Western sanctions imposed following its invasion of Ukraine. Until last week, the United States allowed Russia to use some of its frozen assets to pay back certain investors in dollars. But the US Treasury has since blocked the country from accessing its reserves at<strong> </strong>American banks, part of its effort to ramp up pressure on Russian President Vladimir Putin and further diminish his war chest. </div>
+<div class="zn-body__paragraph">JPMorgan estimates that Russia had about $40 billion of foreign currency debt at the end of last year, with about half of that held by foreign investors. </div>
+<div class="zn-body__paragraph"><h3>Moscow prepares to go to court</h3></div>
+<div class="zn-body__paragraph">Russia is now planning legal action.</div>
+<div class="zn-body__paragraph">"We will sue, because we undertook all necessary action so that investors would receive their payments," Finance Minister Anton Siluanov told pro-Kremlin Izvestia newspaper on Monday. </div>
+<div class="zn-body__paragraph">"We will show the court proof of our payments, to confirm our efforts to pay in rubles, just as we did in foreign currency. It won't be a simple process," he added. He did not say who Russia planned to sue.</div>
+<div class="zn-body__paragraph">Kremlin spokesperson Dmitry Peskov said in a press conference last week that any default would be "artificial" because Russia has the dollars to pay — it just can't access them. </div>
+<div class="zn-body__paragraph">"There are no grounds for a real default," Peskov said. "Not even close."</div>
+<div class="zn-body__paragraph">Russia has gone to great lengths to artificially prop up the ruble — which sank by as much as 40% to less than one US cent in the days after the invasion — including by hiking interest rates to 20%, and by forcing exporters to swap most of their foreign currency revenues for rubles. </div>
+<div class="zn-body__paragraph">That measure is still in place but the central bank has decided to relax some other restrictions, Reuters reported Monday, and last week announced that it was cutting interest rates to 17%.</div>
+<div class="zn-body__paragraph">The ruble was trading at 79 to the US dollar on Monday, according to data from Refinitiv. That's about 5% weaker than on Saturday. </div>
+<div class="zn-body__paragraph">—<em> David Goldman and Chris Liakos contributed reporting. </em></div>
+<p class="zn-body__paragraph zn-body__footer"></p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/11/investing/russia-default-sp/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="8"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="499"\> 

@@ -2,21 +2,27 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 import os
+import re
 
 class ArticlePreprocessor:
-    ARTICLE_PATHS = ['../data/raw_articles/batch_one', '../data/raw_articles/batch_two', '../data//raw_articles/batch_three', '../data//raw_articles/batch_four', '../data/raw_articles/batch_six', '../data/raw_articles/batch_seven']
+    ARTICLE_PATHS = ['../data/raw_articles/batch_one', '../data/raw_articles/batch_two', '../data//raw_articles/batch_three', 
+                    '../data//raw_articles/batch_four', '../data/raw_articles/batch_six', '../data/raw_articles/batch_seven',
+                    '../data/raw_articles/batch_eight']
     SAMPLE_PATHS = ['../data/samples/sample_1.csv', '../data/samples/sample_2.csv', '../data/samples/sample_3.csv', '../data/samples/sample_4.csv',
                     '../data/samples/sample_4.csv', '../data/samples/sample_5.csv', '../data/samples/sample_6.csv', '../data/samples/sample_7.csv', 
-                    '../data/samples/sample_8.csv', '../data/samples/sample_9.csv'
+                    '../data/samples/sample_8.csv', '../data/samples/sample_9.csv', '../data/samples/sample_10.csv'
                     ]
     WRITE_PATH = "../data/preprocessed"
-    def __init__(self, article_paths=ARTICLE_PATHS, sample_paths=SAMPLE_PATHS, write_path=WRITE_PATH):
-        self.article_paths = article_paths
-        self.sample_paths = sample_paths
+    def __init__(self, reprocess=False, article_paths=ARTICLE_PATHS, sample_paths=SAMPLE_PATHS, write_path=WRITE_PATH):
         self.write_path = write_path
-        self.duplicate_dict, self.article_outlets = self.remove_and_store_duplicates()
-        self.file_locations = self.write_preprocessed_articles()
-        self.preprocess_samples()
+        if reprocess:
+            self.article_paths = article_paths
+            self.sample_paths = sample_paths
+            self.duplicate_dict, self.article_outlets = self.remove_and_store_duplicates()
+            self.file_locations = self.write_preprocessed_articles()
+            self.preprocess_samples()
+
+        self.article_counts = self.get_article_counts()
 
     def remove_and_store_duplicates(self):
         duplicate_dict = {}
@@ -90,6 +96,17 @@ class ArticlePreprocessor:
         new_sample_file = open(f"{self.write_path}/samples.csv", "w")
         new_sample_file.write(new_sample_data)
 
+    def get_article_counts(self):
+        article_counts = {}
+        BBC_articles = os.listdir(f"{self.write_path}/BBC")
+        FOX_articles = os.listdir(f"{self.write_path}/FOX")
+        CNN_articles = os.listdir(f"{self.write_path}/CNN")
+
+        article_counts["BBC"] = max([int(re.findall("\d+", article)[0]) for article in BBC_articles])
+        article_counts["CNN"] = max([int(re.findall("\d+", article)[0]) for article in CNN_articles])
+        article_counts["FOX"] = max([int(re.findall("\d+", article)[0]) for article in FOX_articles])
+
+        return article_counts
 
 if __name__ == "__main__":
     preprocessor = ArticlePreprocessor()

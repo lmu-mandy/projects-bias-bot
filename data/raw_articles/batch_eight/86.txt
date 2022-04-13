@@ -1,0 +1,41 @@
+<div><h1 class="pg-headline">What you should know about ghost guns as Biden announces new regulation</h1><p class="zn-body__paragraph speakable"><cite class="el-editorial-source"> (CNN)</cite>President Joe Biden on Monday announced new steps aimed at regulating so-called "ghost guns," as use of the untraceable, homemade weapons in violent crimes rises. </p>
+<div class="zn-body__paragraph">Ghost guns are one of many issues facing regulators and policymakers looking to address a spike in gun violence that began in early summer 2020. Gun homicides drove the uptick.</div>
+<div class="zn-body__paragraph">Here's what you should know about ghost guns: </div>
+<div class="zn-body__paragraph"><h3>What ghost guns are</h3></div>
+<div class="zn-body__paragraph">Ghost guns are untraceable, self-assembled firearms, often put together with parts sold online, sometimes in as little as 30 minutes.</div>
+<div class="zn-body__paragraph">The weapons, sometimes referred to by officials as "privately made firearms," or PMFs, do not have serial numbers, making them all the more difficult to track and regulate.</div>
+<div class="zn-body__paragraph">Purchasing kits to build ghost guns online does not require a background check, so buyers can sidestep the typical requirements that might come with buying a firearm. </div>
+<div class="zn-body__paragraph">This means anyone -- no matter their age or criminal record -- can buy the kits and assemble a weapon.</div>
+<div class="zn-body__paragraph"><h3>How prevalent they are</h3></div>
+<div class="zn-body__paragraph">Calls for something to be done about ghost guns have grown as their use in shootings across the US has proliferated, with the weapons recovered at crime scenes in some big cities more frequently.</div>
+<div class="zn-body__paragraph">While ghost guns make up a relatively small percentage of the total number of guns recovered by law enforcement, officials in several cities have reported sharp increases in those tallies, a CNN analysis of 2021 data found.</div>
+<div class="zn-body__paragraph">In San Francisco, for example, about 20% of the nearly 1,100 guns it seized in 2021 were ghost guns, police there told CNN.</div>
+<div class="zn-body__paragraph">Of the 12,088 guns recovered in Chicago last year, 455, or 3.76%, were ghost guns, according to data from the city, up from 130 ghost guns recovered in 2020, when ghost guns made up 1.15% of the 11,343 guns recovered. </div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph">Between 2016 and 2021, the ATF received 45,000 reports of privately made firearms recovered by law enforcement in criminal investigations, including 20,000 reported last year alone. The agency was able to trace only 1% of the 45,000, officials said, because the firearms lack serial numbers.</div>
+<div class="zn-body__paragraph">The number of guns the ATF traced rose from about 217,000 in 2015 to just over 393,000 in 2020.</div>
+<div class="zn-body__paragraph">Just this past week, a ghost gun was recovered outside the home of a suspect arrested for the fatal shooting of a 16-year-old girl in the South Bronx, a police source told CNN. </div>
+<div class="zn-body__paragraph"><h3>What Biden announced</h3></div>
+<div class="zn-body__paragraph">The regulation the Biden administration announced Monday addresses a gap in the government's ability to track ghost guns, requiring background checks before kit purchases and inclusion of serial numbers on some pieces used to assemble weapons. </div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph">"The Biden administration is making sure these kits are treated as the deadly firearms they are," a senior administration official said ahead of the announcement.</div>
+<div class="zn-body__paragraph">The new rules require anyone purchasing a kit to undergo a background check, which is required for other kinds of firearm purchases. Those selling kits will also be required to include a serial number on the components that make up the weapon, so the eventual firearm can be traced. </div>
+<div class="zn-body__paragraph">Additionally, the new rules mandate firearm dealers add a serial number to already-assembled ghost guns they come across.</div>
+<div class="zn-body__paragraph"><h3>What steps states have taken</h3></div>
+<div class="zn-body__paragraph">At least 10 states and Washington, DC, have already taken steps to restrict or ban the purchase or use of ghost guns, according to the Giffords Law Center to Prevent Gun Violence.</div>
+<div class="zn-body__paragraph">Maryland was the latest to join last week, when the governor allowed legislation to pass that altered the definition of "firearm" to include an unfinished frame or receiver and prohibiting the sale of such components, among other steps.</div>
+<div class="zn-body__paragraph"></div>
+<div class="zn-body__paragraph">Republican Gov. Larry Hogan thanked the legislature for addressing untraceable firearms in a letter. But he said the legislation did not go far enough to hold accountable those who actually commit shootings.</div>
+<div class="zn-body__paragraph">Last October, New York Gov. Kathy Hochul signed legislation last October aimed at tackling the epidemic of gun violence, including prohibiting "the sale of ghost guns and requiring gunsmiths and dealers in firearms to register firearms in their possession," according to the governor's office.</div>
+<div class="zn-body__paragraph"><h3>Federal cases have targeted alleged traffickers</h3></div>
+<div class="zn-body__paragraph">In the meantime, federal authorities have been cracking down on those who are either in possession of ghost guns or looking to traffic them.</div>
+<div class="zn-body__paragraph">Four men were charged in Baltimore last month with conspiracy and dealing firearms -- including ghost guns -- without a license, per the US Attorney's Office in Maryland.</div>
+<div class="zn-body__paragraph">In January, a Rhode Island man was charged by the US Attorney's Office of the Southern District of New York for allegedly selling or attempting to sell more than 100 guns he made at his home.</div>
+<div class="zn-body__paragraph">According to the Justice Department, the 34-year-old allegedly purchased the parts, made them at his home in Providence, Rhode Island, and then sold the completed weapons.</div>
+<div class="zn-body__paragraph">He was charged with one count of conspiracy to traffic firearms and one count of making false statements, the DOJ said in a news release.</div>
+<p class="zn-body__paragraph zn-body__footer">CNN's Kevin Liptak, Mark Morales and Brynn Gingras contributed to this report.</p>
+</div><input type="hidden" id="url" name="url" value="https://www.cnn.com/2022/04/11/us/ghost-guns-what-to-know/index.html"\> 
+<input type="hidden" id="newsOutlet" name="newsOutlet" value="CNN"\> 
+<input type="hidden" id="batch" name="batch" value="8"\> 
+<input type="hidden" id="articleNumber" name="articleNumber" value="86"\> 
