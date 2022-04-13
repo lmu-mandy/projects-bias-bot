@@ -37,7 +37,7 @@ for key in pre.article_counts.keys():
 
 		possible_articles[article_path] = Article(article_text)
 
-# Process text
+# Process samples
 samples = []
 count = 0
 for _, row in tqdm(df.iterrows(), ascii=True, desc=f"Loading samples"):

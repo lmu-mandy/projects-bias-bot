@@ -107,6 +107,3 @@ class ArticlePreprocessor:
         article_counts["FOX"] = max([int(re.findall("\d+", article)[0]) for article in FOX_articles])
 
         return article_counts
-
-if __name__ == "__main__":
-    preprocessor = ArticlePreprocessor()

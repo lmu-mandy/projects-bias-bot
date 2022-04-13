@@ -93,7 +93,7 @@ with open("../data/processed_articles.p", "rb") as f:
 	data = pickle.load(f)
 
 vocab, word_to_index = load_vocab(data)
-label_to_index = {"Is Biased":0, "Is Not Biased":1}
+label_to_index = {"is-biased":0, "is-not-biased":1}
 party_to_index = {"Liberal":0, "Conservative":1, "Independent":2, "Other":3, "default":3}
 max_len = max([len(article.headline + article.text) for article in data]) + 2
 
@@ -186,19 +186,4 @@ with torch.no_grad():
 	print(labels)
 	print(predictions)
 
-	print(classification_report(labels, predictions, target_names=["Is Biased","Is Not Biased"], zero_division=0))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	print(classification_report(labels, predictions, target_names=["is-biased","is-not-biased"], zero_division=0))
