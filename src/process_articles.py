@@ -12,7 +12,6 @@ from Article import Article
 from Sample import Sample
 from ArticlePreprocessor import ArticlePreprocessor
 
-#file = "../data/300-samples.csv"
 file = "../data/preprocessed/samples.csv"
 df = pd.read_csv(file)
 df = df.dropna(subset=['Article Location'])
@@ -38,7 +37,6 @@ for key in pre.article_counts.keys():
 
 		possible_articles[article_path] = Article(article_text)
 
-
 # Process text
 samples = []
 count = 0
@@ -52,31 +50,6 @@ for _, row in tqdm(df.iterrows(), ascii=True, desc=f"Loading samples"):
 
 	sample = Sample(header, text, source, label, party)
 	samples.append(sample)
-	count = count + 1
-	print(count)
-
-# for i, article_num in enumerate(df['articleNumber']):
-# 	batch_num = df['batch'][i]
-# 	if not np.isnan(batch_num):
-# 		print("sure")
-# 		print(f"\n\n[{i}/{len(df)}] -- Article {int(article_num)}")
-			
-# 		article_file = df["Article Location"][i]
-
-# 		f = open(article_file)
-# 		text = f.read()
-
-# 		source = df['newsOutlet'][i]
-# 		label = df['bias-question'][i]
-# 		party = df['politics'][i]
-
-# 		article = Article(text, source, article_num, label, party)
-# 		articles.append(article)
-
-# 		print(f"\n\n\nArticle from {source}:")
-# 		print("Headline: ", article.headline)
-# 		print(article.text)
-
 
 output_file = f"../data/processed_articles.p"
 with open(output_file, 'wb') as f:
