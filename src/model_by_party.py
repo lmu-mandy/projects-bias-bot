@@ -19,7 +19,7 @@ from sklearn.metrics import classification_report
 from Article import Article
 
 class LSTM(nn.Module):
-	def __init__(self, input_size, emb_dim, output_size, num_layers, embeds):
+	def __init__(self, input_size, emb_dim, output_size, num_layers, embeds=None):
 		super().__init__()
 		self.emb = nn.Embedding(input_size, emb_dim)
 		if embeds is not None:
@@ -88,6 +88,21 @@ def get_error(scores, labels):
     
     return 1-num_matches.float()/bs  
 
+def evaluate(model, test_data):
+	with torch.no_grad():
+		model.eval()
+		x_test, y_test = process_batch(test_data)
+
+		x_test = x_test.view(-1, len(test_data))
+
+		pred_y_test = model(x_test).view(-1,2)
+
+		labels = y_test.tolist()
+		predictions = [torch.argmax(pred).item() for pred in pred_y_test]
+
+		print("Evaluation on test set:")
+		print(classification_report(labels, predictions, target_names=["Is Biased","Is Not Biased"], zero_division=0))
+
 device= torch.device("cpu")
 
 # Run only for a single political group
@@ -111,12 +126,13 @@ input_size = len(word_to_index)
 output_size = 2 
 num_layers = 3
 batch_size = 16 
-learning_rate = 0.001
+learning_rate = 0.0001
 epochs = 5
 
-# Load pre-trained word embeddings, if using them.
+#Load pre-trained word embeddings, if using them.
 embeds = api.load('glove-twitter-25').vectors
 emb_dim = embeds.shape[1]
+# emb_dim = 200
 
 
 # Build model
@@ -129,6 +145,7 @@ train_dataloader = DataLoader(train_data, batch_size=batch_size, shuffle=False, 
 for epoch in range(epochs):
 
 	print(f"\n\nEpoch {epoch}")
+	evaluate(model, test_data)
 
 	# learning_rate = learning_rate/2
 	optimizer = optim.Adam(model.parameters(), lr=learning_rate)
@@ -158,31 +175,14 @@ for epoch in range(epochs):
 		optimizer.zero_grad()
 
 		error = get_error(scores, y)
+		print(error)
 		running_error += error.item()
 		count += 1
 
 	print("Error:", running_error/count)
 
-
 # Evaluate
-with torch.no_grad():
-	model.eval()
-	x_test, y_test = process_batch(test_data)
-
-	x_test = x_test.view(-1, len(test_data))
-
-	print(f"y_test size: {y_test.size()}")
-
-	pred_y_test = model(x_test).view(-1,2)
-	print(f"pred_y_test size: {pred_y_test.size()}")
-
-	labels = y_test.tolist()
-	predictions = [torch.argmax(pred).item() for pred in pred_y_test]
-
-	print(labels)
-	print(predictions)
-
-	print(classification_report(labels, predictions, target_names=["Is Biased","Is Not Biased"], zero_division=0))
+evaluate(model, test_data)
 
 
 

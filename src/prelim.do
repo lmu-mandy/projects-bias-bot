@@ -1,6 +1,6 @@
-global ROOT "/Users/vbp/Dropbox/Mac/Documents/Research/NewsMediaBias"
+global ROOT "/Users/vbp/Dropbox/Mac/Documents/Research/NewsMediaBias/projects-bias-bot"
 
-import delimited "$ROOT/data/300-samples.csv", clear
+import delimited "$ROOT/data/preprocessed/samples.csv", clear
 rename answer* *
 
 drop if politics == "Independent" | politics == "Other"
@@ -15,6 +15,24 @@ replace nbiasquestion = 0 if biasquestion=="is-not-biased"
 egen total_bias = total(nbiasquestion), by(npolitics nnewsoutlet)
 egen total_obs = count(nbiasquestion), by(npolitics nnewsoutlet)
 gen bias_prob = total_bias/total_obs
+
+drop if politics=="default"
+
+save "$ROOT/data/stata/results.dta", replace
+
+// Plot worker time in
+
+use "$ROOT/data/stata/results.dta", clear
+
+collapse (mean) worktimeinseconds, by(politics newsoutlet)
+encode politics, gen(n_politics)
+encode newsoutlet, gen(n_newsoutlet)
+
+gen plot = n_politics + 3*n_newsoutlet
+
+twoway (bar worktimeinseconds plot if n_politics==1, bcolor(red)) (bar worktimeinseconds plot if n_politics==2, bcolor(blue)), legend(order(1 "Conservative" 2 "Liberal")) xlabel(4.5 "BBC" 7.5 "CNN" 10.5 "FOX", noticks) xtitle("News Source") ytitle("Average response time (seconds)")
+
+// Other prelim stuff
 
 preserve
 gen phase = 2
@@ -34,7 +52,7 @@ twoway (bar meanbias newsparty if npolitics==2, bcolor(blue)) ///
        (bar meanbias newsparty if npolitics==1, bcolor(red)), ///
        legend(row(1) order(1 "Liberal" 2 "Conservative") ) ///
        xlabel( 1.5 "BBC" 5.5 "CNN" 9.5 "FOX", noticks) ///
-       xtitle("") ytitle("Probability of Bias Score")
+       xtitle("") ytitle("Probability of Bias Score") yscale(r(0.5(0.1)0.80)) ylabel(0.5(0.05)0.75)
 	   
 * Merge with original data set
 import delimited "$ROOT/data/phase1.csv", clear
