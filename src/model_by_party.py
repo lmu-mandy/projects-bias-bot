@@ -101,7 +101,7 @@ def evaluate(model, test_data):
 		predictions = [torch.argmax(pred).item() for pred in pred_y_test]
 
 		print("Evaluation on test set:")
-		print(classification_report(labels, predictions, target_names=["Is Biased","Is Not Biased"], zero_division=0))
+		print(classification_report(labels, predictions, target_names=["is-biased","is-not-biased"], zero_division=0))
 
 device= torch.device("cpu")
 
@@ -115,7 +115,7 @@ with open("../data/processed_articles.p", "rb") as f:
 	data = pickle.load(f)
 
 vocab, word_to_index = load_vocab(data)
-label_to_index = {"Is Biased":0, "Is Not Biased":1}
+label_to_index = {"is-biased":0, "is-not-biased":1}
 max_len = max([len(article.headline + article.text) for article in data])
 
 print("Creating train data set...")
