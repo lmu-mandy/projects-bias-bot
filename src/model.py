@@ -49,23 +49,32 @@ class LSTM(nn.Module):
 
 def load_vocab(data):
 	word_to_index = {"FOX":1,"CNN":2,"BBC":3}
+	wordCount = {"FOX":9999,"CNN":9999,"BBC":9999} #ensure we keep FOX, CNN, and BBC
 	vocab = []
 	count = 4
 	for item in data:
 		for word in item.headline + item.text:
 			if word not in word_to_index:
 				vocab.append(word)
-				word_to_index[word] = count 
-				count += 1
-	return vocab, word_to_index
+				word_to_index[word] = count
+			if word in wordCount:
+				wordCount[word] += 1 
+			else:
+				wordCount[word] = 1
+			count += 1
+	#original vocab size = 13942
+	reduced_vocab = list(dict(sorted(wordCount.items(), key = lambda kv: kv[1], reverse = True)))[0:1000]
+	# print(reduced_vocab)
+	return reduced_vocab, word_to_index
 
 def split_data(data, word_to_index, label_to_index, party_to_index):
 	processed_data = []
 	for article in data:
 		datapoint = [word_to_index[article.source]] + [party_to_index[article.party]] + [word_to_index[word] for word in article.headline] + [word_to_index[word] for word in article.text]
 		label = label_to_index[article.label]
-
+	#	print(len(datapoint))
 		processed_data.append( (datapoint, label) )
+	
 	return processed_data, processed_data
 
 
