@@ -1,4 +1,4 @@
-from model import LSTM
+from ArticlePreprocessor import ArticlePreprocessor
 
 if __name__ == "__main__":
-    print("Hello World")
+    ArticlePreprocessor(reprocess=True)

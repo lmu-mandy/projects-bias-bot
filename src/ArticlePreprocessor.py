@@ -10,7 +10,7 @@ class ArticlePreprocessor:
                     '../data/raw_articles/batch_eight']
     SAMPLE_PATHS = ['../data/samples/sample_1.csv', '../data/samples/sample_2.csv', '../data/samples/sample_3.csv', '../data/samples/sample_4.csv',
                     '../data/samples/sample_4.csv', '../data/samples/sample_5.csv', '../data/samples/sample_6.csv', '../data/samples/sample_7.csv', 
-                    '../data/samples/sample_8.csv', '../data/samples/sample_9.csv', '../data/samples/sample_10.csv'
+                    '../data/samples/sample_8.csv', '../data/samples/sample_9.csv', '../data/samples/sample_10.csv', '../data/samples/sample_11.csv'
                     ]
     WRITE_PATH = "../data/preprocessed"
     def __init__(self, reprocess=False, article_paths=ARTICLE_PATHS, sample_paths=SAMPLE_PATHS, write_path=WRITE_PATH):
