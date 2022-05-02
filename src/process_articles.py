@@ -28,6 +28,7 @@ pre = ArticlePreprocessor()
 
 possible_articles = {}
 
+
 for key in pre.article_counts.keys():
 	for article_num in tqdm(range(0, pre.article_counts[key]+1), ascii=True, desc=f"Loading {key} articles"):
 		article_path = f"{pre.write_path}/{key}/{article_num}.txt"
