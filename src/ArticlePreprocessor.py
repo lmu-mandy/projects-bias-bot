@@ -4,7 +4,32 @@ import numpy as np
 import os
 import re
 
+
 class ArticlePreprocessor:
+    """
+    A class which compiles and reduces the articles used in samples, then creates a master sample
+    file
+    ...
+
+    Attributes
+    ----------
+    write_path: str
+        a string representation of the path which to write articles to
+    article_paths: list
+        a string list containing the paths to directories which contain all the articles
+    sample_paths: list
+        a list containing all the paths to directories which contain all samples
+    duplicate_dict: dictionary
+        a dictionary containing an article path as a key and a list of articles which are
+        the same article
+    article_outles: dictionary
+        a dictionary which has article URLs as the keys and returns the article's outlets
+    file_locations: dictionary
+        a dictionary which contains the new locations of old articles
+    article_counts: dictionary
+        a dictionary which has FOX, CNN, and BBC as keys and the number of new articles in each
+        of them as values
+    """
     ARTICLE_PATHS = ['../data/raw_articles/batch_one', '../data/raw_articles/batch_two', '../data//raw_articles/batch_three', 
                     '../data//raw_articles/batch_four', '../data/raw_articles/batch_six', '../data/raw_articles/batch_seven',
                     '../data/raw_articles/batch_eight']
@@ -13,7 +38,20 @@ class ArticlePreprocessor:
                     '../data/samples/sample_8.csv', '../data/samples/sample_9.csv', '../data/samples/sample_10.csv', '../data/samples/sample_11.csv'
                     ]
     WRITE_PATH = "../data/preprocessed"
+
     def __init__(self, reprocess=False, article_paths=ARTICLE_PATHS, sample_paths=SAMPLE_PATHS, write_path=WRITE_PATH):
+        """
+        Parameters:
+        -----------
+        reprocess: bool
+            if the articles should be reprocessed
+        article_paths: list
+            a list of paths for files containing articles
+        sample_paths: list
+            a list of paths for files containing samples
+        write_path: list
+            the path where new files should be written to
+        """
         self.write_path = write_path
         if reprocess:
             self.article_paths = article_paths
@@ -25,6 +63,17 @@ class ArticlePreprocessor:
         self.article_counts = self.get_article_counts()
 
     def remove_and_store_duplicates(self):
+        """
+        Removes articles which are duplicates and stores them in a duplicate dictionary
+
+        Returns
+        ------
+        duplicate_dict: dictionary
+            a dictionary containing an article path as a key and a list of articles which are
+            the same article
+        article_outles: dictionary
+            a dictionary which has article URLs as the keys and returns the article's outlets
+        """
         duplicate_dict = {}
         article_outlets = {}
         for batch in self.article_paths:
@@ -57,6 +106,14 @@ class ArticlePreprocessor:
         return duplicate_dict, article_outlets
     
     def write_preprocessed_articles(self):
+        """
+        Writes articles to a new location and then returns the new locations
+
+        Return
+        ------
+        file_locations: dictionary
+            a dictionary with keys as URLs and new paths as values
+        """
         outlet_path_count = {"FOX": 0, "CNN": 0, "BBC": 0}
         file_locations = {}
         if not os.path.exists(f"{self.write_path}"):
@@ -81,6 +138,9 @@ class ArticlePreprocessor:
         return file_locations
 
     def preprocess_samples(self):
+        """
+        Writes samples files to a master file called preprocessed_samples.csv
+        """
         data = pd.DataFrame()
         for sample_path in self.sample_paths:
             new_samples = pd.read_csv(sample_path)
@@ -97,6 +157,15 @@ class ArticlePreprocessor:
         new_sample_file.write(new_sample_data)
 
     def get_article_counts(self):
+        """
+        Gets the article counts of all the new news outlets
+
+        Return
+        ------
+        article_counts: dictionary
+            a dictionary which has FOX, CNN, and BBC as keys and the number of new articles in each
+            of them as values
+        """
         article_counts = {}
         BBC_articles = os.listdir(f"{self.write_path}/BBC")
         FOX_articles = os.listdir(f"{self.write_path}/FOX")
