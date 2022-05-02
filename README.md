@@ -11,5 +11,21 @@
 
 ## Step Two
 
+*Since our model runs on GPU, it is necessary to run it on a colab or a jupyterhub notebook*
+- Download the model.ipynb file from our repository
+  - First clone our repository
+  - Once the repository is downloaded change your directory to our folder
+  - Change directory to src
+  - Run ```jupyter notebook model.pynb```
 
+## Step Three
+
+- Run all of the cells
+- You will be
+  - Splitting data into training and testing
+  - Building an LSTM model
+  - Training the LSTM model in batches with your training data
+  - Validating the results of your new model on the testing data
+
+Congratualations! You have completed our tutorial
 
