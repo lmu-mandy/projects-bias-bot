@@ -103,7 +103,9 @@ def get_headline(source, text):
 	return headline, text
 
 class Article:
+    """stores metadata about each article"""
 	def __init__(self, text):
+        """initialize class"""
 
 		self.text = text
 		self.source = self.extract_source()
@@ -115,6 +117,7 @@ class Article:
 		self.text = process_text(self.text)
 
 	def extract_source(self):
+        """extract the news outlet from the article"""
 		article_soup = BeautifulSoup(self.text, features="html.parser")
 		try:
 			return article_soup.find("input", {"id": "newsOutlet"}).get('value')
