@@ -27,5 +27,5 @@
   - Training the LSTM model in batches with your training data
   - Validating the results of your new model on the testing data
 
-Congratualations! You have completed our tutorial
+Congratulations! You have completed our tutorial
 
